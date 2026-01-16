@@ -1,0 +1,31 @@
+Synthetic Dataset: Turkey Universities Exam Score Prediction (n=1025)
+Variables: 16 (8 categorical, 6 continuous, 2 year columns)
+
+Target variable:
+- Exam_Score (0–100): final standardized exam outcome score.
+
+Variable counts:
+- Categorical variables: 8
+- Continuous variables: 6
+- Year columns: 2
+
+Columns (type • scale • short meaning):
+1) Student_ID (ID • nominal): unique student identifier.
+2) Enrollment_Year (year • discrete): year the student enrolled (2015–2021).
+3) Exam_Year (year • discrete): year the exam was taken (2015–2021).
+4) University_Name (categorical • nominal): Turkish university where the student studies.
+5) Home_City (categorical • nominal): student's city of origin within Turkey.
+6) Major (categorical • nominal): field of study.
+7) Gender (categorical • nominal): Female/Male.
+8) Scholarship_Status (categorical • nominal): Yes/No.
+9) Socioeconomic_Status (categorical • ordinal): Low < Middle < High.
+10) PartTime_Job (categorical • nominal): Yes/No.
+11) Study_Hours_per_Week (continuous • ratio): weekly self-study hours.
+12) Tutoring_Hours_per_Week (continuous • ratio): weekly tutoring/support hours.
+13) Attendance_Rate (continuous • proportion): class attendance rate.
+14) Sleep_Hours_per_Night (continuous • ratio): average sleep hours.
+15) Prior_GPA (continuous • interval): GPA on 0.00–4.00 scale.
+16) Exam_Score (continuous • interval): exam outcome on 0–100 scale.
+
+Notes:
+- This is fully synthetic data created for practice and demonstration purposes.
