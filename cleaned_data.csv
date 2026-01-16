@@ -1,0 +1,1015 @@
+Student_ID,Enrollment_Year,Exam_Year,University_Name,Home_City,Major,Gender,Scholarship_Status,Socioeconomic_Status,PartTime_Job,Study_Hours_per_Week,Tutoring_Hours_per_Week,Attendance_Rate,Sleep_Hours_per_Night,Prior_GPA,Exam_Score
+TR00001,2020,2021,Yildiz Technical University,Ankara,Economics,Female,No,Middle,No,16.5,2.2,0.788,6.22,2.37,86.0
+TR00002,2016,2018,Bilkent University,Antalya,Law,Male,No,Middle,No,26.2,1.8,0.817,7.92,2.92,100.0
+TR00004,2017,2021,Istanbul University,Konya,Architecture,Male,No,Low,Yes,14.2,3.7,0.646,6.4,2.98,87.9
+TR00005,2015,2017,Yildiz Technical University,Eskisehir,Computer Science,Female,No,Middle,No,16.4,1.1,0.907,6.81,2.81,94.9
+TR00006,2016,2019,Koc University,Antalya,Business,Male,No,Middle,Yes,10.3,0.5,0.752,7.18,2.42,76.8
+TR00007,2016,2019,Bogazici University,Gaziantep,Engineering,Male,No,Middle,No,19.6,3.6,0.972,7.04,2.63,90.1
+TR00008,2021,2021,Istanbul University,Istanbul,Psychology,Male,No,Low,No,24.6,0.0,0.854,7.1,3.01,100.0
+TR00009,2015,2016,Ankara University,Izmir,Education,Female,No,Middle,No,17.0,1.6,0.618,6.88,2.36,81.8
+TR00010,2017,2017,Ankara University,Izmir,Computer Science,Female,Yes,High,No,25.1,3.6,0.737,7.55,2.44,91.3
+TR00011,2018,2021,Ege University,Kayseri,Medicine,Male,No,High,No,31.6,1.2,0.648,7.15,2.61,94.7
+TR00012,2016,2017,Gazi University,Antalya,Business,Female,No,High,No,17.2,0.5,0.716,6.79,2.21,75.3
+TR00013,2015,2017,Ege University,Samsun,Engineering,Male,Yes,Middle,No,13.3,5.2,0.709,7.81,3.47,86.1
+TR00014,2018,2019,Koc University,Kayseri,Engineering,Female,Yes,Middle,No,28.4,3.9,0.86,8.34,3.25,100.0
+TR00015,2015,2018,Bilkent University,Trabzon,Education,Female,Yes,Middle,Yes,8.8,1.7,0.765,6.49,3.44,86.7
+TR00016,2016,2017,Istanbul University,Kayseri,Computer Science,Male,No,Low,No,21.6,4.8,0.879,8.23,2.99,100.0
+TR00017,2016,2020,Gazi University,Istanbul,Law,Male,No,Middle,No,17.2,4.7,0.817,6.56,3.45,100.0
+TR00018,2017,2019,Hacettepe University,Ankara,Psychology,Male,No,Middle,No,18.5,1.3,0.801,8.11,2.98,99.9
+TR00019,2015,2016,Bogazici University,Antalya,Law,Male,No,Low,Yes,18.8,1.7,0.93,6.29,2.78,100.0
+TR00020,2016,2018,Istanbul University,Bursa,Business,Female,No,Middle,Yes,7.1,2.8,0.788,7.69,1.67,65.0
+TR00021,2018,2020,Ege University,Eskisehir,Economics,Male,No,High,No,20.5,1.1,0.814,7.07,2.5,89.6
+TR00022,2020,2020,Middle East Technical University,Kayseri,Architecture,Female,No,Low,Yes,16.3,1.1,0.702,5.37,2.57,80.4
+TR00023,2015,2016,Dokuz Eylul University,Konya,Engineering,Male,No,High,No,30.3,1.7,0.726,8.16,2.96,100.0
+TR00024,2015,2018,Gazi University,Adana,Other Majors,Male,Yes,Low,No,14.5,3.1,0.902,6.39,2.7,81.3
+TR00025,2016,2019,Gazi University,Konya,Education,Female,No,Middle,No,9.6,0.3,0.877,6.24,2.97,82.1
+TR00026,2015,2015,Koc University,Istanbul,Engineering,Male,No,Middle,No,19.8,2.2,0.946,6.89,3.1,95.8
+TR00027,2016,2018,Bogazici University,Istanbul,Law,Male,No,Middle,No,13.6,0.2,0.858,9.16,3.13,97.8
+TR00028,2015,2016,Istanbul Technical University,Gaziantep,Psychology,Female,No,High,No,15.1,3.4,0.789,6.09,3.14,99.2
+TR00029,2018,2020,Ankara University,Other cities,Law,Male,No,High,No,16.8,1.1,0.861,7.18,3.41,100.0
+TR00030,2015,2019,Ankara University,Trabzon,Architecture,Female,Yes,Middle,No,22.1,0.9,0.814,5.98,3.38,97.9
+TR00031,2017,2018,Middle East Technical University,Ankara,Architecture,Female,No,Low,No,27.2,1.6,0.889,5.96,2.95,100.0
+TR00032,2015,2015,Bilkent University,Samsun,Business,Male,Yes,High,No,15.4,2.3,0.947,5.8,3.95,100.0
+TR00033,2015,2015,Koc University,Eskisehir,Economics,Male,No,Low,No,18.0,3.1,0.803,7.25,3.3,93.8
+TR00034,2015,2017,Bilkent University,Mersin,Architecture,Male,No,High,No,14.5,1.0,0.961,6.98,2.55,91.7
+TR00035,2015,2017,Hacettepe University,Kayseri,Computer Science,Male,No,Middle,Yes,18.0,2.7,0.865,5.85,2.98,93.2
+TR00036,2017,2021,Istanbul University,Konya,Engineering,Male,No,Low,Yes,18.9,3.8,0.771,7.42,1.79,75.0
+TR00037,2015,2016,Dokuz Eylul University,Adana,Engineering,Male,No,Middle,Yes,23.5,1.7,0.824,7.37,2.08,94.2
+TR00038,2017,2018,Yildiz Technical University,Istanbul,Law,Female,No,Low,No,14.6,0.0,0.844,7.43,2.42,68.1
+TR00039,2015,2018,Istanbul Technical University,Istanbul,Architecture,Female,No,Low,Yes,13.0,3.4,0.772,7.84,2.17,79.8
+TR00040,2020,2021,Ege University,Ankara,Psychology,Female,No,Middle,No,20.3,0.3,0.973,6.65,2.76,91.3
+TR00041,2016,2020,Yildiz Technical University,Adana,Computer Science,Female,No,Low,Yes,31.9,3.9,0.811,6.59,3.02,100.0
+TR00042,2016,2020,Yildiz Technical University,Diyarbakir,Engineering,Male,No,Low,No,22.9,3.9,0.753,6.58,3.22,100.0
+TR00043,2021,2021,Koc University,Adana,Medicine,Female,Yes,Low,No,31.4,4.2,0.758,5.39,3.32,99.4
+TR00044,2016,2020,Gazi University,Ankara,Psychology,Unknown,No,Middle,Yes,20.7,0.6,0.691,6.84,2.95,90.3
+TR00045,2017,2017,Middle East Technical University,Istanbul,Engineering,Female,No,Low,Yes,22.9,2.4,0.809,6.73,2.22,89.5
+TR00046,2015,2018,Ankara University,Eskisehir,Medicine,Male,No,Middle,No,32.3,1.7,0.793,6.55,2.64,90.1
+TR00047,2020,2021,Hacettepe University,Antalya,Engineering,Male,Yes,Low,Yes,20.8,2.4,0.817,6.96,3.02,97.9
+TR00048,2017,2018,Bilkent University,Antalya,Computer Science,Male,No,High,No,21.7,3.3,0.895,8.02,2.59,95.1
+TR00049,2015,2015,Dokuz Eylul University,Ankara,Architecture,Male,Yes,High,No,15.5,4.0,0.99,6.91,2.43,82.1
+TR00050,2016,2017,Koc University,Adana,Medicine,Male,Yes,Low,Yes,28.7,6.1,0.765,5.66,2.98,100.0
+TR00051,2015,2019,Middle East Technical University,Kayseri,Business,Male,No,Middle,No,19.4,1.4,0.707,6.76,2.72,85.7
+TR00052,2015,2017,Gazi University,Ankara,Computer Science,Female,No,High,No,26.1,4.6,0.963,6.65,2.99,100.0
+TR00053,2021,2021,Ege University,Eskisehir,Statistics,Male,No,High,Yes,15.5,1.7,0.653,7.61,3.17,89.8
+TR00054,2018,2019,Hacettepe University,Ankara,Engineering,Male,No,Middle,No,28.6,0.7,0.7,6.77,3.3,100.0
+TR00055,2015,2015,Koc University,Izmir,Business,Male,No,Low,Yes,18.8,4.9,0.911,5.81,3.6,100.0
+TR00056,2021,2021,Gazi University,Trabzon,Economics,Male,No,Middle,No,12.1,2.5,0.905,7.82,2.48,89.0
+TR00057,2015,2016,Dokuz Eylul University,Konya,Psychology,Female,No,Middle,Yes,11.6,0.0,0.809,7.46,2.91,74.6
+TR00058,2015,2018,Ankara University,Adana,Business,Male,No,Middle,No,23.3,3.7,0.816,6.93,2.9,100.0
+TR00059,2015,2015,Ankara University,Samsun,Engineering,Male,No,Middle,No,18.1,1.6,0.801,7.76,2.88,100.0
+TR00060,2017,2018,Koc University,Gaziantep,Computer Science,Female,No,High,Yes,22.4,1.6,0.718,7.51,2.32,79.7
+TR00061,2017,2020,Ankara University,Gaziantep,Education,Male,No,High,No,16.1,2.4,0.797,6.76,2.25,73.1
+TR00062,2016,2016,Middle East Technical University,Adana,Engineering,Female,No,Low,Yes,21.4,5.6,0.766,5.93,2.64,100.0
+TR00063,2016,2016,Middle East Technical University,Samsun,Psychology,Male,No,Low,Yes,13.6,0.3,0.66,6.87,2.15,74.5
+TR00064,2015,2015,Bilkent University,Mersin,Engineering,Male,No,Low,No,26.5,5.8,0.754,7.17,3.14,100.0
+TR00065,2015,2016,Koc University,Eskisehir,Law,Female,No,High,No,12.3,3.0,0.651,7.09,1.96,67.1
+TR00066,2016,2019,Bilkent University,Izmir,Business,Male,No,Middle,Yes,8.1,0.0,0.776,6.26,1.99,67.2
+TR00067,2015,2016,Koc University,Izmir,Computer Science,Female,No,Middle,Yes,27.2,2.2,0.776,6.6,2.68,100.0
+TR00068,2015,2018,Ege University,Istanbul,Economics,Male,Yes,Middle,No,30.8,4.0,0.982,4.99,2.48,100.0
+TR00069,2017,2018,Koc University,Konya,Psychology,Female,No,Middle,No,17.2,0.0,0.85,6.77,3.59,93.0
+TR00070,2017,2021,Dokuz Eylul University,Antalya,Computer Science,Male,No,Middle,No,33.7,4.8,0.776,7.21,2.88,100.0
+TR00071,2017,2018,Hacettepe University,Bursa,Computer Science,Female,No,Middle,No,17.6,4.0,0.804,7.74,2.48,84.8
+TR00072,2019,2021,Bogazici University,Eskisehir,Education,Male,No,Middle,No,13.2,1.8,0.859,4.14,3.02,90.7
+TR00073,2016,2018,Bogazici University,Bursa,Education,Female,No,High,No,23.9,2.2,0.838,6.67,3.43,100.0
+TR00074,2017,2019,Gazi University,Diyarbakir,Engineering,Male,No,High,No,28.4,5.8,0.866,7.17,3.11,100.0
+TR00075,2019,2021,Ankara University,Bursa,Economics,Male,Yes,High,Yes,26.0,4.8,0.82,5.57,3.02,100.0
+TR00076,2015,2017,Hacettepe University,Adana,Architecture,Male,No,Middle,No,23.6,1.0,0.8,6.53,2.4,85.2
+TR00077,2016,2020,Yildiz Technical University,Gaziantep,Engineering,Male,No,Middle,No,17.9,3.8,0.777,7.97,2.99,89.0
+TR00078,2015,2015,Middle East Technical University,Gaziantep,Computer Science,Male,No,Middle,No,22.3,5.6,0.773,6.48,3.43,100.0
+TR00079,2017,2018,Istanbul University,Antalya,Statistics,Female,No,High,No,27.4,0.9,0.746,8.0,2.83,82.7
+TR00080,2015,2016,Istanbul Technical University,Adana,Engineering,Female,No,Low,No,21.6,3.8,0.733,6.3,2.25,79.2
+TR00081,2016,2018,Ege University,Bursa,Computer Science,Female,No,Middle,No,20.5,4.2,0.967,8.05,3.0,100.0
+TR00082,2016,2016,Ankara University,Samsun,Business,Male,Yes,Low,Yes,15.3,0.0,0.8,6.86,2.71,82.4
+TR00083,2016,2020,Ankara University,Diyarbakir,Law,Male,No,Middle,No,16.6,3.1,0.808,6.34,2.2,89.7
+TR00084,2017,2020,Dokuz Eylul University,Mersin,Engineering,Female,Yes,Middle,No,25.8,1.1,0.8,7.9,2.67,96.6
+TR00085,2019,2020,Ankara University,Trabzon,Engineering,Male,Yes,Middle,No,24.4,3.1,0.854,5.84,3.67,100.0
+TR00086,2016,2016,Middle East Technical University,Kayseri,Computer Science,Male,Yes,Low,No,18.5,5.0,0.936,6.35,2.21,85.6
+TR00087,2018,2018,Middle East Technical University,Gaziantep,Education,Male,No,Middle,No,21.1,0.0,0.878,7.3,2.63,91.8
+TR00088,2019,2020,Istanbul Technical University,Eskisehir,Education,Female,No,High,Yes,16.9,2.1,0.844,6.85,2.5,80.1
+TR00089,2016,2019,Koc University,Samsun,Law,Female,Yes,Low,Yes,14.5,5.7,0.743,7.07,2.22,80.7
+TR00090,2021,2021,Yildiz Technical University,Eskisehir,Engineering,Male,No,Middle,No,24.3,1.9,0.82,6.52,2.64,90.5
+TR00091,2016,2016,Hacettepe University,Istanbul,Computer Science,Male,Yes,Middle,No,19.8,3.5,0.794,5.99,3.02,90.2
+TR00092,2015,2016,Ankara University,Ankara,Medicine,Female,No,High,Yes,21.6,5.4,0.779,6.12,3.39,99.8
+TR00093,2015,2018,Bogazici University,Kayseri,Architecture,Male,Yes,Low,No,11.0,0.1,0.942,8.27,2.81,87.2
+TR00094,2016,2016,Bilkent University,Gaziantep,Education,Male,No,High,No,11.5,2.0,0.855,6.13,2.55,84.9
+TR00095,2015,2016,Dokuz Eylul University,Diyarbakir,Computer Science,Male,No,Middle,No,17.7,4.2,0.95,8.33,3.56,100.0
+TR00096,2019,2020,Dokuz Eylul University,Izmir,Architecture,Male,No,High,No,22.7,2.8,0.797,7.11,1.98,82.1
+TR00097,2016,2018,Bogazici University,Gaziantep,Engineering,Female,No,High,No,25.8,2.7,0.755,6.29,3.2,100.0
+TR00098,2020,2020,Gazi University,Samsun,Computer Science,Female,No,Low,Yes,15.2,1.6,0.811,5.23,2.15,86.3
+TR00099,2017,2021,Bogazici University,Istanbul,Other Majors,Male,Yes,Low,No,21.6,4.4,0.803,5.39,2.8,100.0
+TR00100,2020,2021,Gazi University,Eskisehir,Architecture,Female,No,Low,No,16.7,2.7,0.846,6.76,2.93,82.5
+TR00101,2017,2020,Istanbul University,Bursa,Medicine,Female,No,Middle,No,29.2,2.1,0.834,6.28,2.15,90.2
+TR00102,2020,2021,Bilkent University,Izmir,Computer Science,Female,No,Low,Yes,16.8,2.7,0.731,6.88,2.64,97.1
+TR00103,2016,2018,Dokuz Eylul University,Adana,Psychology,Female,No,Low,Yes,18.7,2.5,0.786,8.11,2.81,92.5
+TR00104,2015,2015,Bogazici University,Konya,Engineering,Female,Yes,Middle,No,22.7,0.3,0.898,6.89,3.54,100.0
+TR00105,2018,2020,Istanbul University,Bursa,Economics,Female,No,Low,No,18.3,2.2,0.906,6.89,3.99,100.0
+TR00106,2018,2019,Koc University,Konya,Education,Female,No,Low,Yes,8.8,0.9,0.731,8.0,1.84,67.0
+TR00107,2019,2019,Ege University,Kayseri,Business,Female,Yes,Middle,No,14.6,3.3,0.858,7.22,3.48,99.3
+TR00108,2015,2016,Hacettepe University,Mersin,Medicine,Male,Yes,Low,Yes,36.4,1.1,0.908,7.48,2.98,100.0
+TR00109,2018,2021,Istanbul University,Ankara,Medicine,Male,No,Middle,Yes,24.4,5.0,0.733,6.02,2.36,91.6
+TR00110,2018,2019,Hacettepe University,Mersin,Engineering,Male,No,Middle,Yes,23.5,5.1,0.718,5.67,2.91,94.8
+TR00111,2015,2016,Bogazici University,Izmir,Psychology,Female,Yes,Middle,Yes,12.7,0.0,0.854,5.31,2.24,77.8
+TR00112,2015,2015,Yildiz Technical University,Antalya,Law,Female,No,High,No,20.7,0.0,0.87,6.83,2.38,85.1
+TR00113,2016,2018,Koc University,Izmir,Engineering,Male,No,Middle,No,28.2,5.7,0.753,5.71,2.06,89.4
+TR00114,2015,2018,Istanbul University,Mersin,Economics,Male,No,Middle,No,16.1,0.2,0.708,6.06,2.92,96.2
+TR00115,2015,2018,Other Universities,Gaziantep,Economics,Female,No,Middle,No,22.5,6.6,0.837,6.89,3.02,100.0
+TR00116,2019,2019,Bogazici University,Samsun,Engineering,Female,No,High,No,40.1,0.0,0.787,4.96,2.76,100.0
+TR00117,2015,2015,Ankara University,Eskisehir,Business,Male,No,High,No,18.4,1.3,0.685,7.07,3.48,85.7
+TR00118,2015,2019,Middle East Technical University,Gaziantep,Economics,Female,No,High,No,28.3,1.4,0.765,6.62,2.69,94.3
+TR00119,2017,2021,Istanbul University,Gaziantep,Economics,Female,No,Middle,Yes,19.3,1.3,0.818,6.79,3.39,100.0
+TR00120,2016,2019,Bilkent University,Samsun,Computer Science,Male,Yes,Low,No,17.0,3.9,0.828,8.14,2.76,92.1
+TR00121,2015,2015,Ege University,Samsun,Medicine,Male,No,Low,Yes,26.7,4.9,0.895,5.83,2.48,90.7
+TR00122,2015,2015,Ankara University,Kayseri,Computer Science,Female,No,Low,Yes,16.0,2.9,0.603,7.92,2.41,85.9
+TR00123,2019,2021,Ege University,Bursa,Law,Female,No,High,Yes,13.8,0.0,0.877,5.47,2.27,71.8
+TR00124,2015,2015,Bogazici University,Antalya,Law,Male,No,Middle,Yes,14.6,3.5,0.742,7.37,2.76,94.2
+TR00125,2016,2015,Middle East Technical University,Antalya,Computer Science,Female,No,Middle,Yes,17.1,3.6,0.731,7.96,2.69,87.9
+TR00126,2015,2018,Istanbul University,Gaziantep,Law,Female,Yes,Middle,No,12.8,2.0,0.716,4.0,2.9,73.7
+TR00127,2020,2021,Istanbul University,Konya,Psychology,Female,No,High,No,34.7,2.1,0.857,6.47,3.58,100.0
+TR00128,2015,2017,Yildiz Technical University,Kayseri,Computer Science,Male,No,Low,Yes,23.6,4.4,0.624,6.49,2.65,100.0
+TR00129,2015,2017,Dokuz Eylul University,Diyarbakir,Law,Female,No,Low,No,20.3,1.2,0.885,6.99,2.1,82.6
+TR00130,2015,2015,Yildiz Technical University,Gaziantep,Education,Male,No,Middle,No,14.5,1.9,0.699,6.89,3.12,95.2
+TR00131,2015,2017,Bogazici University,Ankara,Computer Science,Male,No,Middle,No,29.0,1.7,0.712,6.06,2.85,100.0
+TR00132,2017,2017,Bogazici University,Eskisehir,Economics,Male,Yes,Middle,No,30.3,2.9,0.745,5.68,2.12,98.9
+TR00133,2015,2015,Middle East Technical University,Samsun,Medicine,Male,No,High,Yes,29.1,3.0,0.713,6.48,3.0,91.95
+TR00134,2017,2017,Yildiz Technical University,Bursa,Engineering,Female,No,Low,No,23.5,4.4,0.895,6.89,2.96,99.5
+TR00135,2018,2018,Bilkent University,Adana,Psychology,Female,No,Middle,No,26.4,0.6,0.94,7.19,2.89,100.0
+TR00136,2015,2016,Bilkent University,Samsun,Computer Science,Female,No,Middle,Yes,19.3,3.7,0.721,6.74,2.62,100.0
+TR00137,2020,2021,Middle East Technical University,Ankara,Architecture,Female,No,Low,Yes,22.0,1.0,0.766,6.45,2.43,80.9
+TR00138,2015,2016,Koc University,Konya,Computer Science,Male,Yes,High,No,27.4,2.5,0.879,5.11,3.27,100.0
+TR00139,2015,2015,Dokuz Eylul University,Izmir,Business,Female,No,Middle,No,12.7,2.8,0.794,7.63,2.78,85.5
+TR00140,2015,2018,Bilkent University,Trabzon,Engineering,Female,Yes,Middle,Yes,7.7,3.5,0.826,6.89,2.24,62.2
+TR00141,2017,2021,Gazi University,Izmir,Computer Science,Female,Yes,High,Yes,17.8,2.7,0.79,6.2,3.6,95.1
+TR00142,2015,2015,Hacettepe University,Mersin,Law,Male,No,Middle,No,22.6,4.7,0.8,6.49,2.53,91.7
+TR00143,2015,2018,Middle East Technical University,Ankara,Statistics,Female,Yes,Low,Yes,21.4,4.6,0.676,5.81,1.43,82.9
+TR00144,2015,2016,Middle East Technical University,Mersin,Medicine,Female,Yes,Middle,Unknown,36.5,4.9,0.852,7.14,2.84,100.0
+TR00145,2015,2015,Istanbul Technical University,Gaziantep,Law,Female,Yes,Middle,No,15.6,2.9,0.917,6.78,3.33,86.4
+TR00146,2021,2021,Ankara University,Adana,Computer Science,Male,Yes,Low,Yes,29.9,4.5,0.728,6.27,2.73,100.0
+TR00147,2018,2021,Ankara University,Istanbul,Computer Science,Male,Yes,Low,No,24.5,5.9,0.683,7.31,1.97,93.0
+TR00148,2020,2020,Gazi University,Samsun,Law,Female,Yes,Middle,No,23.6,1.1,0.814,7.09,2.44,97.3
+TR00149,2016,2019,Yildiz Technical University,Istanbul,Education,Female,No,Middle,Yes,18.0,2.6,0.891,7.2,2.42,88.7
+TR00150,2017,2017,Koc University,Konya,Medicine,Female,No,Low,No,20.5,4.7,0.917,7.06,2.45,100.0
+TR00151,2017,2018,Bogazici University,Gaziantep,Computer Science,Female,Yes,Middle,No,16.2,2.0,0.794,7.21,2.65,96.3
+TR00152,2016,2020,Bogazici University,Antalya,Computer Science,Male,No,High,No,16.8,2.2,0.856,7.19,3.08,85.7
+TR00153,2015,2017,Ege University,Samsun,Psychology,Male,No,Low,No,23.2,2.3,0.869,7.21,2.9,98.7
+TR00154,2015,2017,Gazi University,Mersin,Psychology,Female,Yes,Low,No,15.0,0.5,0.959,7.49,2.92,88.3
+TR00155,2015,2015,Middle East Technical University,Antalya,Economics,Male,Yes,Middle,No,29.2,3.0,0.716,5.69,3.73,100.0
+TR00156,2015,2017,Gazi University,Bursa,Medicine,Female,No,Low,Yes,25.8,3.9,0.684,6.04,2.99,96.2
+TR00157,2017,2018,Gazi University,Diyarbakir,Statistics,Male,No,Middle,No,11.8,2.5,0.659,7.02,2.89,82.8
+TR00158,2021,2021,Gazi University,Adana,Law,Male,Yes,Low,No,16.4,4.6,0.786,7.41,1.86,70.5
+TR00159,2019,2020,Ankara University,Diyarbakir,Architecture,Female,Yes,Middle,No,22.7,2.2,0.925,8.14,2.64,100.0
+TR00160,2016,2017,Gazi University,Adana,Engineering,Male,No,Middle,Yes,22.9,5.3,0.725,5.95,2.02,84.8
+TR00161,2015,2015,Dokuz Eylul University,Izmir,Computer Science,Female,No,Middle,No,15.1,1.8,0.715,6.89,2.29,91.95
+TR00162,2018,2019,Hacettepe University,Kayseri,Education,Female,No,High,No,19.0,0.0,0.838,6.51,3.31,95.4
+TR00163,2015,2016,Bogazici University,Samsun,Architecture,Female,No,High,Yes,22.4,1.3,0.79,7.71,2.72,91.7
+TR00164,2020,2021,Ege University,Mersin,Economics,Female,No,Middle,No,15.6,0.0,0.739,8.6,3.18,83.1
+TR00165,2017,2021,Hacettepe University,Diyarbakir,Computer Science,Male,No,Middle,Yes,32.2,4.0,0.73,4.93,3.22,100.0
+TR00166,2019,2020,Ege University,Konya,Law,Male,No,Low,Yes,13.8,0.7,0.782,6.61,2.61,74.0
+TR00167,2018,2021,Istanbul Technical University,Istanbul,Engineering,Male,Yes,Middle,No,18.4,1.8,0.9,5.11,3.36,100.0
+TR00168,2017,2017,Ege University,Trabzon,Computer Science,Male,Yes,Low,Yes,9.6,4.3,0.738,5.65,3.14,89.5
+TR00169,2015,2015,Bogazici University,Konya,Computer Science,Male,No,High,Yes,25.3,2.6,0.707,5.23,3.07,100.0
+TR00170,2021,2021,Bogazici University,Antalya,Architecture,Female,Yes,Middle,No,22.5,1.3,0.99,7.36,3.13,100.0
+TR00171,2021,2021,Gazi University,Antalya,Business,Female,No,Middle,No,14.5,0.0,0.798,7.45,3.03,90.8
+TR00172,2016,2016,Istanbul University,Diyarbakir,Medicine,Female,No,Low,Yes,16.6,6.2,0.79,7.43,1.92,78.3
+TR00173,2015,2016,Istanbul Technical University,Trabzon,Engineering,Male,No,Middle,No,20.1,4.0,0.872,7.42,2.77,96.6
+TR00174,2016,2018,Dokuz Eylul University,Ankara,Business,Male,No,High,No,30.5,4.3,0.677,7.01,2.96,100.0
+TR00175,2019,2019,Middle East Technical University,Bursa,Economics,Female,No,Middle,No,5.7,0.6,0.819,7.46,2.44,77.2
+TR00176,2015,2017,Bilkent University,Samsun,Education,Male,No,High,No,18.9,0.0,0.688,7.1,2.36,59.7
+TR00177,2018,2021,Ege University,Adana,Economics,Male,No,Low,No,30.2,3.8,0.81,7.45,3.32,98.9
+TR00178,2018,2021,Istanbul University,Eskisehir,Architecture,Male,No,Middle,Yes,26.9,1.7,0.88,6.49,3.03,100.0
+TR00179,2015,2015,Gazi University,Mersin,Statistics,Female,Yes,High,No,15.6,3.2,0.76,7.49,2.93,89.8
+TR00180,2015,2018,Ankara University,Konya,Computer Science,Female,Yes,Middle,No,23.4,5.2,0.707,4.97,3.45,100.0
+TR00181,2017,2019,Middle East Technical University,Mersin,Architecture,Female,No,High,No,24.4,2.4,0.971,5.87,2.98,100.0
+TR00182,2018,2018,Koc University,Antalya,Education,Female,No,Low,Yes,13.0,1.9,0.678,7.68,2.38,87.9
+TR00183,2019,2020,Yildiz Technical University,Kayseri,Law,Female,No,Low,No,30.7,2.2,0.7,6.08,3.38,100.0
+TR00184,2016,2019,Istanbul University,Izmir,Engineering,Male,No,High,No,25.6,0.0,0.95,5.65,2.37,99.2
+TR00185,2019,2021,Ankara University,Istanbul,Business,Female,No,Low,Yes,21.2,3.6,0.675,7.17,2.67,87.6
+TR00186,2019,2021,Istanbul Technical University,Bursa,Law,Male,No,High,Yes,18.5,3.5,0.902,6.74,2.6,87.0
+TR00187,2019,2019,Koc University,Kayseri,Psychology,Male,Yes,High,No,5.4,1.9,0.862,7.05,2.93,70.3
+TR00188,2018,2021,Gazi University,Bursa,Business,Male,No,Low,No,10.2,0.0,0.923,8.44,2.94,87.5
+TR00189,2015,2017,Middle East Technical University,Ankara,Psychology,Female,No,Middle,Yes,7.9,1.1,0.785,6.89,2.93,91.95
+TR00190,2017,2019,Middle East Technical University,Eskisehir,Computer Science,Male,No,Low,Yes,18.1,5.5,0.856,6.6,3.16,98.7
+TR00191,2018,2018,Middle East Technical University,Diyarbakir,Engineering,Male,No,Middle,No,35.7,1.9,0.747,7.05,2.84,100.0
+TR00192,2015,2019,Istanbul Technical University,Diyarbakir,Statistics,Female,Yes,Low,No,22.8,4.9,0.791,5.07,2.68,100.0
+TR00193,2018,2021,Koc University,Antalya,Law,Female,Yes,Low,Yes,16.8,2.5,0.621,7.66,2.79,87.1
+TR00194,2015,2017,Ege University,Izmir,Economics,Male,No,Middle,No,25.2,2.7,0.898,5.91,3.37,100.0
+TR00195,2015,2017,Yildiz Technical University,Trabzon,Computer Science,Female,No,Middle,No,13.1,1.9,0.854,5.99,2.13,77.4
+TR00196,2016,2020,Dokuz Eylul University,Samsun,Engineering,Female,Yes,High,No,21.1,2.7,0.759,5.48,3.01,90.2
+TR00197,2015,2018,Istanbul Technical University,Trabzon,Computer Science,Female,Yes,High,No,18.9,3.1,0.7,5.5,2.63,96.5
+TR00198,2015,2016,Bilkent University,Kayseri,Business,Female,No,Middle,No,17.8,0.0,0.843,7.87,2.87,95.4
+TR00199,2015,2016,Yildiz Technical University,Bursa,Business,Male,Yes,Middle,No,20.8,1.6,0.974,7.42,2.87,98.0
+TR00200,2018,2019,Bogazici University,Adana,Architecture,Female,No,High,No,18.9,0.0,0.809,6.19,2.62,100.0
+TR00201,2017,2020,Gazi University,Ankara,Law,Male,No,Middle,Yes,19.9,0.8,0.717,7.38,2.26,88.1
+TR00202,2015,2015,Istanbul Technical University,Adana,Medicine,Male,No,Middle,Yes,22.8,4.4,0.695,6.13,2.6,97.7
+TR00203,2015,2019,Ankara University,Izmir,Business,Male,Yes,High,No,18.5,2.8,0.94,7.24,3.21,90.8
+TR00204,2019,2020,Yildiz Technical University,Samsun,Architecture,Male,No,Middle,Yes,14.0,2.8,0.708,6.49,2.35,68.5
+TR00205,2018,2018,Bilkent University,Samsun,Engineering,Male,No,Middle,Yes,24.2,0.6,0.74,6.47,3.31,100.0
+TR00206,2017,2018,Bogazici University,Kayseri,Medicine,Female,No,High,No,26.2,5.0,0.903,6.03,4.0,100.0
+TR00207,2016,2018,Ege University,Mersin,Engineering,Male,No,High,Yes,13.5,0.8,0.821,6.28,2.94,78.7
+TR00208,2015,2018,Koc University,Ankara,Engineering,Male,Yes,Middle,Yes,20.4,3.8,0.763,7.11,2.77,97.5
+TR00209,2018,2018,Ankara University,Samsun,Education,Male,No,Low,Yes,0.7,0.0,0.714,7.83,1.99,47.4
+TR00210,2020,2020,Yildiz Technical University,Samsun,Computer Science,Male,No,Middle,No,31.8,1.4,0.937,6.25,3.23,100.0
+TR00211,2020,2020,Gazi University,Kayseri,Economics,Female,Yes,Low,No,23.8,0.7,0.751,5.61,3.44,100.0
+TR00212,2017,2017,Koc University,Antalya,Computer Science,Female,No,Middle,No,23.8,2.8,0.803,8.8,3.72,100.0
+TR00213,2016,2016,Ankara University,Gaziantep,Economics,Male,Yes,Low,No,7.7,1.9,0.72,7.34,3.14,71.4
+TR00214,2020,2021,Bogazici University,Ankara,Architecture,Female,No,High,No,18.2,2.6,0.915,7.24,3.31,91.9
+TR00215,2015,2018,Ankara University,Adana,Statistics,Male,Yes,Low,No,20.4,3.0,0.802,5.92,2.92,89.9
+TR00216,2015,2015,Koc University,Izmir,Economics,Female,No,Low,No,15.4,0.0,0.764,8.05,2.14,78.6
+TR00217,2019,2021,Hacettepe University,Other cities,Psychology,Female,No,Middle,No,8.3,1.7,0.873,8.39,2.68,75.1
+TR00218,2018,2020,Dokuz Eylul University,Samsun,Education,Female,No,Middle,No,8.1,0.0,0.706,5.93,2.51,81.2
+TR00219,2015,2015,Istanbul University,Diyarbakir,Economics,Female,No,Low,Yes,12.3,0.8,0.821,6.84,2.57,81.0
+TR00220,2015,2015,Ege University,Eskisehir,Medicine,Male,No,Middle,Yes,17.3,2.9,0.741,6.63,2.3,81.1
+TR00221,2015,2015,Bogazici University,Antalya,Business,Female,Yes,Middle,Yes,20.2,0.5,0.803,8.59,3.14,100.0
+TR00222,2015,2017,Koc University,Samsun,Education,Male,Yes,Low,No,17.8,0.0,0.761,8.16,2.62,79.1
+TR00223,2020,2020,Dokuz Eylul University,Gaziantep,Statistics,Male,Yes,Low,No,16.2,5.2,0.785,5.89,2.5,91.9
+TR00224,2015,2015,Dokuz Eylul University,Eskisehir,Education,Female,Yes,High,No,21.0,3.4,0.804,6.33,2.69,95.0
+TR00225,2016,2018,Ankara University,Diyarbakir,Psychology,Male,No,Middle,Yes,20.0,4.9,0.674,5.98,2.84,90.1
+TR00226,2016,2019,Istanbul University,Istanbul,Computer Science,Male,No,Low,Yes,21.3,5.0,0.794,6.95,3.37,100.0
+TR00227,2015,2015,Dokuz Eylul University,Antalya,Education,Male,No,High,No,13.8,0.2,0.722,8.38,2.78,80.8
+TR00228,2017,2017,Istanbul University,Izmir,Education,Female,No,High,No,13.0,2.2,0.631,7.24,2.83,82.9
+TR00229,2021,2021,Ankara University,Bursa,Economics,Unknown,No,Middle,No,18.9,0.9,0.974,7.46,3.76,100.0
+TR00230,2016,2020,Koc University,Ankara,Law,Male,No,Middle,No,12.0,5.0,0.836,6.65,3.24,95.2
+TR00231,2015,2017,Gazi University,Kayseri,Education,Female,Yes,High,No,24.0,0.6,0.99,7.22,3.47,100.0
+TR00232,2015,2015,Hacettepe University,Izmir,Engineering,Female,No,High,No,18.9,4.6,0.737,6.6,3.02,100.0
+TR00233,2020,2020,Dokuz Eylul University,Ankara,Education,Male,No,Middle,No,16.2,2.9,0.858,5.74,2.58,73.9
+TR00234,2016,2019,Istanbul Technical University,Eskisehir,Engineering,Female,No,Middle,Yes,15.1,3.1,0.842,7.18,2.4,87.6
+TR00235,2015,2015,Hacettepe University,Mersin,Business,Male,No,Middle,Yes,10.4,0.0,0.755,6.97,2.71,65.2
+TR00236,2016,2017,Ankara University,Kayseri,Education,Female,No,Middle,No,31.9,0.8,0.704,5.71,3.04,100.0
+TR00237,2015,2016,Ege University,Konya,Medicine,Male,Yes,Low,Yes,21.0,4.3,0.769,7.97,2.27,90.4
+TR00238,2016,2018,Istanbul Technical University,Adana,Medicine,Male,No,Middle,No,37.9,5.5,0.87,5.79,3.35,100.0
+TR00239,2020,2021,Bogazici University,Istanbul,Business,Female,No,High,No,17.2,1.0,0.867,7.51,2.8,94.3
+TR00240,2017,2017,Hacettepe University,Antalya,Psychology,Female,Yes,Middle,No,20.9,0.0,0.84,6.62,3.44,93.9
+TR00241,2016,2020,Other Universities,Samsun,Engineering,Male,No,Middle,No,31.5,4.4,0.892,7.83,2.98,100.0
+TR00242,2015,2015,Hacettepe University,Mersin,Architecture,Male,No,Middle,Yes,18.6,1.6,0.838,6.54,2.74,83.9
+TR00243,2015,2018,Dokuz Eylul University,Diyarbakir,Engineering,Male,No,Low,No,21.1,0.0,0.778,5.57,2.24,74.4
+TR00244,2015,2015,Koc University,Mersin,Statistics,Female,No,Middle,No,17.9,2.9,0.698,6.89,2.29,73.6
+TR00245,2016,2020,Istanbul Technical University,Izmir,Architecture,Female,No,Middle,No,21.1,2.8,0.835,8.14,3.43,100.0
+TR00246,2015,2015,Bilkent University,Istanbul,Business,Female,No,Low,Yes,23.2,0.5,0.71,6.25,2.83,93.3
+TR00247,2015,2016,Yildiz Technical University,Bursa,Business,Male,No,Low,No,6.5,1.5,0.831,7.89,2.73,67.0
+TR00248,2015,2018,Hacettepe University,Trabzon,Business,Female,No,High,No,5.6,2.1,0.928,7.48,3.52,84.7
+TR00249,2015,2018,Bogazici University,Ankara,Computer Science,Female,No,Low,No,12.0,3.7,0.855,6.87,2.01,76.8
+TR00250,2016,2020,Bogazici University,Ankara,Engineering,Male,Yes,Low,No,18.6,0.9,0.944,7.65,3.11,95.4
+TR00251,2020,2021,Middle East Technical University,Izmir,Engineering,Male,No,High,Unknown,28.6,4.6,0.739,6.04,2.21,91.9
+TR00252,2015,2016,Hacettepe University,Gaziantep,Engineering,Female,Yes,Middle,No,27.0,5.5,0.927,6.76,2.78,100.0
+TR00253,2015,2017,Yildiz Technical University,Gaziantep,Business,Female,No,Middle,No,12.2,0.4,0.954,7.38,2.32,87.2
+TR00254,2015,2015,Gazi University,Samsun,Medicine,Male,No,High,No,27.8,0.2,0.825,6.88,3.31,99.2
+TR00255,2016,2019,Dokuz Eylul University,Konya,Computer Science,Male,No,Low,No,15.9,4.4,0.99,6.44,1.92,68.5
+TR00256,2015,2015,Istanbul University,Adana,Statistics,Female,No,Middle,Unknown,9.9,1.3,0.701,8.64,2.45,69.9
+TR00257,2015,2015,Koc University,Kayseri,Economics,Male,Yes,Middle,No,20.5,2.5,0.789,7.94,2.34,78.5
+TR00258,2015,2017,Yildiz Technical University,Bursa,Law,Male,No,High,No,25.1,5.1,0.872,7.58,2.62,96.7
+TR00259,2015,2015,Istanbul University,Samsun,Business,Female,No,Middle,No,12.1,0.0,0.824,8.32,2.42,69.7
+TR00260,2015,2016,Istanbul University,Istanbul,Psychology,Female,No,Middle,No,26.2,0.0,0.761,6.81,3.5,99.1
+TR00261,2015,2016,Bilkent University,Gaziantep,Architecture,Female,Yes,Middle,No,26.2,1.7,0.89,6.46,2.85,100.0
+TR00262,2016,2018,Middle East Technical University,Konya,Other Majors,Male,No,Middle,No,26.8,3.4,0.848,5.87,3.76,100.0
+TR00263,2019,2020,Yildiz Technical University,Konya,Statistics,Female,No,Middle,No,19.2,8.1,0.773,6.4,3.62,100.0
+TR00264,2020,2021,Yildiz Technical University,Izmir,Engineering,Male,No,Middle,Yes,30.5,3.2,0.785,5.56,3.86,100.0
+TR00265,2017,2019,Bilkent University,Bursa,Education,Male,Yes,Middle,No,28.7,0.0,0.901,6.26,3.09,91.95
+TR00266,2015,2015,Hacettepe University,Eskisehir,Education,Female,No,Middle,No,11.5,0.4,0.771,7.42,2.8,84.5
+TR00267,2015,2015,Hacettepe University,Kayseri,Medicine,Male,No,Middle,No,27.1,2.3,0.861,7.46,3.04,96.4
+TR00268,2015,2017,Hacettepe University,Adana,Architecture,Male,No,Middle,No,15.1,3.2,0.751,7.8,2.51,85.4
+TR00269,2019,2020,Ege University,Antalya,Engineering,Female,No,High,No,17.1,3.2,0.766,6.09,2.96,94.1
+TR00270,2016,2016,Istanbul University,Izmir,Computer Science,Female,No,Middle,Yes,11.6,0.9,0.859,7.49,2.28,90.4
+TR00271,2019,2019,Ege University,Kayseri,Medicine,Female,No,High,No,24.7,2.0,0.869,7.71,2.07,80.3
+TR00272,2015,2018,Middle East Technical University,Antalya,Business,Male,No,High,No,17.8,0.4,0.669,6.8,3.09,100.0
+TR00273,2015,2016,Koc University,Antalya,Computer Science,Male,No,Middle,Yes,13.8,2.2,0.74,7.83,2.48,85.9
+TR00274,2017,2020,Bilkent University,Diyarbakir,Law,Female,Yes,Middle,Yes,18.5,1.7,0.829,7.44,2.4,100.0
+TR00275,2018,2021,Yildiz Technical University,Bursa,Business,Male,No,High,No,19.0,1.1,0.831,5.96,2.54,96.1
+TR00276,2015,2018,Dokuz Eylul University,Diyarbakir,Economics,Male,No,Middle,Yes,12.4,3.6,0.819,8.67,3.39,84.9
+TR00277,2018,2021,Istanbul University,Bursa,Education,Male,No,High,No,16.0,0.2,0.829,6.49,3.11,96.8
+TR00278,2015,2017,Ege University,Samsun,Engineering,Female,No,Middle,Yes,16.6,1.9,0.759,7.56,1.99,72.4
+TR00279,2015,2017,Ege University,Istanbul,Business,Female,Yes,Middle,Yes,10.9,0.0,0.777,7.7,2.19,71.6
+TR00280,2015,2015,Ankara University,Konya,Architecture,Female,No,Low,Yes,12.1,2.2,0.857,5.95,2.49,70.9
+TR00281,2021,2021,Ege University,Kayseri,Psychology,Male,No,Middle,No,18.9,1.7,0.876,7.12,3.1,92.2
+TR00282,2017,2020,Koc University,Izmir,Business,Female,Yes,High,No,13.4,0.0,0.872,7.87,2.56,91.5
+TR00283,2018,2019,Gazi University,Samsun,Education,Male,No,Middle,Yes,5.6,0.5,0.777,6.13,2.78,72.4
+TR00284,2018,2018,Yildiz Technical University,Trabzon,Education,Female,No,Middle,Yes,15.8,2.9,0.726,6.9,2.79,93.2
+TR00285,2015,2016,Gazi University,Ankara,Psychology,Female,No,High,No,20.2,2.1,0.795,7.73,2.98,87.9
+TR00286,2016,2020,Yildiz Technical University,Izmir,Law,Female,Yes,Middle,Yes,23.7,2.4,0.875,7.43,1.88,75.9
+TR00287,2020,2020,Bilkent University,Istanbul,Medicine,Male,No,Middle,No,23.9,4.5,0.898,6.51,2.95,100.0
+TR00288,2015,2017,Yildiz Technical University,Adana,Medicine,Female,Yes,Middle,No,25.9,2.6,0.788,8.0,2.06,98.8
+TR00289,2021,2021,Gazi University,Mersin,Economics,Female,No,Middle,Yes,17.8,0.5,0.778,7.8,2.63,86.9
+TR00290,2015,2015,Yildiz Technical University,Mersin,Law,Male,Yes,Low,Yes,12.0,4.4,0.83,7.12,2.42,82.6
+TR00291,2015,2015,Bilkent University,Konya,Engineering,Female,No,Middle,Yes,22.4,4.1,0.805,6.09,2.31,98.1
+TR00292,2017,2018,Bilkent University,Mersin,Computer Science,Female,No,Middle,No,25.2,1.4,0.854,5.85,3.28,100.0
+TR00293,2015,2017,Middle East Technical University,Mersin,Economics,Male,No,Middle,No,20.7,0.0,0.731,7.22,2.26,89.6
+TR00294,2020,2020,Yildiz Technical University,Ankara,Economics,Female,No,Middle,Yes,24.8,0.4,0.676,7.72,2.55,97.0
+TR00295,2019,2019,Dokuz Eylul University,Gaziantep,Psychology,Female,Yes,Middle,No,21.5,2.2,0.934,6.78,3.41,100.0
+TR00296,2015,2017,Ankara University,Diyarbakir,Business,Female,No,Low,Yes,13.7,0.7,0.891,6.19,2.46,77.8
+TR00297,2015,2018,Hacettepe University,Adana,Engineering,Female,No,Middle,No,22.0,3.3,0.701,7.54,2.37,92.7
+TR00298,2018,2018,Bogazici University,Diyarbakir,Education,Female,No,Low,Yes,11.5,3.9,0.768,7.09,2.49,94.3
+TR00299,2015,2017,Bilkent University,Bursa,Engineering,Female,Yes,Middle,No,16.4,2.7,0.905,7.46,3.08,91.3
+TR00300,2018,2018,Istanbul Technical University,Antalya,Computer Science,Female,No,High,No,11.6,2.8,0.644,6.77,3.26,85.3
+TR00301,2016,2017,Hacettepe University,Gaziantep,Education,Female,No,Middle,No,17.6,2.1,0.734,6.72,2.35,73.4
+TR00302,2015,2016,Koc University,Diyarbakir,Economics,Male,No,Middle,No,24.7,0.0,0.813,6.37,2.51,98.8
+TR00303,2017,2017,Istanbul University,Izmir,Education,Female,Yes,Low,No,12.8,0.4,0.792,7.55,2.57,76.7
+TR00304,2017,2021,Yildiz Technical University,Izmir,Business,Female,Yes,Low,No,26.9,3.0,0.857,6.46,3.03,97.7
+TR00305,2016,2017,Gazi University,Diyarbakir,Business,Male,No,Middle,Yes,11.7,1.3,0.888,7.41,2.43,78.0
+TR00306,2018,2018,Bogazici University,Diyarbakir,Engineering,Male,No,Low,Yes,8.5,3.6,0.702,6.54,2.72,86.1
+TR00307,2019,2021,Istanbul Technical University,Mersin,Economics,Female,No,Middle,No,24.9,1.7,0.824,7.19,2.49,94.6
+TR00308,2015,2018,Hacettepe University,Bursa,Architecture,Male,No,Low,Unknown,15.3,4.2,0.742,7.39,1.72,71.9
+TR00309,2015,2015,Yildiz Technical University,Istanbul,Economics,Female,No,High,No,23.1,2.1,0.831,7.11,3.2,100.0
+TR00310,2015,2015,Middle East Technical University,Kayseri,Law,Female,No,Middle,No,10.3,2.5,0.82,7.96,2.95,85.0
+TR00311,2019,2021,Istanbul University,Gaziantep,Law,Male,No,Low,No,22.9,4.4,0.99,6.47,3.36,99.9
+TR00312,2015,2016,Bogazici University,Gaziantep,Law,Female,No,High,No,13.6,4.2,0.939,7.69,1.99,87.0
+TR00313,2015,2015,Ankara University,Diyarbakir,Engineering,Female,Yes,Middle,No,23.2,6.4,0.714,7.03,2.49,100.0
+TR00314,2015,2017,Middle East Technical University,Eskisehir,Economics,Female,No,Low,No,22.4,1.3,0.803,6.22,2.59,91.3
+TR00315,2017,2018,Istanbul Technical University,Adana,Computer Science,Male,No,Middle,No,25.4,6.6,0.758,5.25,3.62,100.0
+TR00316,2015,2015,Koc University,Konya,Medicine,Female,Yes,Middle,No,28.4,1.7,0.741,5.33,2.77,93.8
+TR00317,2015,2015,Bogazici University,Adana,Medicine,Male,No,Middle,No,19.7,6.6,0.711,5.18,2.03,79.3
+TR00318,2015,2016,Middle East Technical University,Kayseri,Engineering,Female,Yes,Low,Yes,23.8,2.4,0.776,6.92,2.88,96.2
+TR00319,2019,2021,Istanbul University,Izmir,Business,Male,No,Middle,No,23.6,1.1,0.761,6.57,3.44,100.0
+TR00320,2018,2021,Ankara University,Diyarbakir,Psychology,Male,No,Low,Yes,18.9,1.9,0.699,7.09,2.99,74.2
+TR00321,2018,2020,Middle East Technical University,Izmir,Engineering,Male,No,Low,Yes,15.6,2.0,0.932,6.68,2.95,88.3
+TR00322,2015,2016,Ege University,Izmir,Engineering,Male,No,High,No,28.8,2.7,0.766,7.14,3.06,100.0
+TR00323,2017,2017,Ankara University,Eskisehir,Economics,Male,Yes,Middle,No,16.5,0.3,0.805,7.53,1.79,69.9
+TR00324,2018,2021,Istanbul Technical University,Izmir,Computer Science,Female,No,Middle,No,18.2,0.6,0.879,7.03,2.83,90.6
+TR00325,2015,2018,Koc University,Kayseri,Computer Science,Female,Yes,Middle,No,23.8,2.5,0.804,6.91,2.97,100.0
+TR00326,2016,2016,Istanbul University,Samsun,Business,Unknown,No,Low,No,11.6,4.3,0.727,7.31,2.47,74.8
+TR00327,2015,2015,Dokuz Eylul University,Bursa,Education,Male,No,High,No,15.0,0.4,0.799,8.2,3.18,85.6
+TR00328,2015,2018,Yildiz Technical University,Trabzon,Computer Science,Male,No,Low,Yes,16.7,4.7,0.931,5.18,2.66,100.0
+TR00329,2016,2018,Gazi University,Konya,Psychology,Female,No,Low,No,15.2,0.5,0.781,6.55,2.49,82.6
+TR00330,2015,2015,Gazi University,Diyarbakir,Education,Female,No,Middle,No,20.7,0.0,0.747,7.61,3.3,92.6
+TR00331,2015,2016,Gazi University,Kayseri,Medicine,Female,No,Middle,Yes,10.6,4.2,0.804,7.86,2.39,80.4
+TR00332,2015,2015,Bogazici University,Mersin,Medicine,Male,No,Middle,No,31.3,6.3,0.796,6.94,2.91,100.0
+TR00333,2016,2020,Istanbul Technical University,Samsun,Engineering,Female,No,Low,No,29.7,3.7,0.99,6.5,3.36,100.0
+TR00334,2018,2018,Istanbul University,Konya,Economics,Male,No,Middle,No,14.5,2.9,0.757,8.6,2.24,79.3
+TR00335,2019,2019,Ankara University,Kayseri,Statistics,Male,No,Middle,No,26.2,4.8,0.959,6.9,2.5,100.0
+TR00336,2016,2019,Bogazici University,Samsun,Business,Female,No,Low,Yes,7.8,1.7,0.863,7.08,3.21,90.0
+TR00337,2017,2017,Istanbul Technical University,Izmir,Medicine,Female,Yes,High,No,24.8,3.1,0.809,7.86,2.65,100.0
+TR00338,2021,2021,Yildiz Technical University,Bursa,Education,Female,No,Low,No,11.7,2.4,0.82,7.57,2.96,71.2
+TR00339,2015,2015,Ege University,Diyarbakir,Law,Female,Yes,Middle,No,23.7,2.8,0.758,7.58,2.06,100.0
+TR00340,2015,2015,Istanbul University,Gaziantep,Engineering,Female,No,Middle,Unknown,11.5,0.6,0.777,8.04,1.49,63.0
+TR00341,2015,2017,Gazi University,Adana,Economics,Female,Yes,Low,No,27.6,2.7,0.809,6.41,3.05,100.0
+TR00342,2017,2017,Middle East Technical University,Antalya,Business,Male,No,Middle,Yes,11.0,1.2,0.783,8.38,2.62,84.0
+TR00343,2017,2017,Dokuz Eylul University,Trabzon,Education,Female,No,High,Yes,15.5,2.2,0.657,4.86,2.93,84.2
+TR00344,2015,2018,Istanbul University,Bursa,Engineering,Female,Yes,Low,Yes,23.4,3.3,0.795,5.01,3.55,100.0
+TR00345,2018,2020,Other Universities,Gaziantep,Medicine,Male,No,High,Yes,27.9,1.4,0.758,5.91,2.32,100.0
+TR00346,2015,2015,Koc University,Istanbul,Business,Male,No,Middle,No,11.4,0.0,0.803,6.86,2.76,81.4
+TR00347,2016,2018,Istanbul Technical University,Diyarbakir,Medicine,Female,No,Low,Yes,33.7,4.2,0.814,6.57,3.49,100.0
+TR00348,2015,2017,Hacettepe University,Kayseri,Computer Science,Male,No,Middle,No,18.7,4.0,0.802,6.43,2.27,83.7
+TR00349,2015,2015,Yildiz Technical University,Istanbul,Business,Female,Yes,Middle,No,10.6,0.6,0.879,7.21,2.54,79.9
+TR00350,2015,2018,Ege University,Gaziantep,Economics,Male,Yes,Middle,No,23.5,0.1,0.833,6.67,2.14,89.3
+TR00351,2016,2020,Yildiz Technical University,Bursa,Architecture,Male,Yes,Middle,No,22.9,0.7,0.879,8.46,3.9,100.0
+TR00352,2016,2018,Istanbul University,Kayseri,Computer Science,Male,No,High,Yes,27.3,3.3,0.795,5.83,1.97,97.9
+TR00353,2019,2020,Hacettepe University,Diyarbakir,Engineering,Female,Yes,High,Yes,20.6,5.3,0.804,5.32,3.26,100.0
+TR00354,2017,2017,Bilkent University,Mersin,Law,Male,No,Middle,Yes,11.9,3.0,0.762,7.83,2.04,73.2
+TR00355,2018,2020,Ankara University,Antalya,Education,Female,No,Middle,No,17.6,3.1,0.924,6.44,2.45,94.1
+TR00356,2015,2015,Middle East Technical University,Izmir,Computer Science,Female,No,Middle,Yes,15.3,0.9,0.802,6.76,3.19,96.2
+TR00357,2016,2017,Hacettepe University,Kayseri,Engineering,Female,No,Middle,No,19.1,2.7,0.714,6.45,2.34,85.4
+TR00358,2015,2015,Istanbul Technical University,Mersin,Statistics,Female,No,Low,No,24.0,4.6,0.782,7.41,3.02,100.0
+TR00359,2019,2019,Gazi University,Diyarbakir,Business,Female,No,Middle,No,27.6,0.0,0.802,5.61,3.57,100.0
+TR00360,2015,2016,Bilkent University,Diyarbakir,Engineering,Male,No,Middle,Yes,17.9,1.7,0.77,4.51,2.8,88.4
+TR00361,2018,2020,Middle East Technical University,Kayseri,Engineering,Male,No,Low,No,18.2,4.9,0.834,8.03,3.06,99.1
+TR00362,2015,2016,Dokuz Eylul University,Bursa,Engineering,Female,No,Low,Yes,18.5,3.8,0.694,6.93,2.59,94.7
+TR00363,2016,2016,Ege University,Mersin,Education,Female,Yes,Middle,No,17.5,0.0,0.835,7.87,2.96,93.3
+TR00364,2016,2020,Gazi University,Bursa,Engineering,Female,Yes,Middle,No,25.5,0.2,0.815,7.78,2.62,93.0
+TR00365,2015,2017,Istanbul University,Samsun,Engineering,Female,No,Middle,No,30.0,4.9,0.907,5.91,3.86,100.0
+TR00366,2018,2019,Hacettepe University,Gaziantep,Psychology,Female,No,Middle,No,21.6,0.0,0.74,6.94,3.15,98.4
+TR00367,2015,2015,Middle East Technical University,Ankara,Economics,Male,No,Middle,Yes,7.4,2.6,0.769,7.47,2.83,75.9
+TR00368,2016,2018,Koc University,Kayseri,Engineering,Female,Yes,Middle,No,20.2,1.9,0.785,6.85,3.15,100.0
+TR00369,2015,2015,Bogazici University,Trabzon,Engineering,Female,Yes,Low,No,13.7,5.1,0.989,6.88,2.46,98.6
+TR00370,2016,2018,Koc University,Diyarbakir,Engineering,Female,No,Low,Yes,27.1,1.7,0.871,6.31,3.24,100.0
+TR00371,2015,2015,Ankara University,Other cities,Medicine,Male,Yes,Middle,No,16.0,7.7,0.709,7.93,3.33,92.0
+TR00372,2017,2020,Koc University,Kayseri,Computer Science,Male,No,Middle,No,15.3,3.2,0.756,6.87,2.05,80.0
+TR00373,2016,2019,Dokuz Eylul University,Gaziantep,Engineering,Male,Yes,Low,No,20.5,4.3,0.91,7.4,3.05,94.7
+TR00374,2015,2018,Ankara University,Konya,Engineering,Male,Yes,Middle,No,26.6,1.6,0.877,7.02,3.0,100.0
+TR00375,2021,2021,Bilkent University,Trabzon,Education,Female,No,Low,No,13.3,1.4,0.854,6.37,2.47,79.0
+TR00376,2017,2017,Ege University,Diyarbakir,Computer Science,Female,No,Middle,No,19.6,2.4,0.835,7.19,2.31,80.9
+TR00377,2015,2015,Bilkent University,Istanbul,Business,Male,No,Middle,No,12.9,4.1,0.896,5.92,3.27,100.0
+TR00378,2015,2015,Bogazici University,Diyarbakir,Law,Female,Yes,Middle,No,19.0,2.4,0.902,6.89,3.0,99.4
+TR00379,2015,2018,Istanbul Technical University,Samsun,Economics,Male,No,High,Yes,7.9,2.3,0.747,7.77,2.57,87.6
+TR00380,2017,2017,Ege University,Izmir,Business,Female,Yes,Low,Yes,7.1,2.7,0.694,7.97,2.75,76.1
+TR00381,2015,2017,Koc University,Mersin,Business,Female,No,High,No,25.9,2.0,0.685,6.0,2.85,100.0
+TR00382,2018,2020,Yildiz Technical University,Diyarbakir,Economics,Male,No,Middle,No,21.4,0.0,0.812,6.47,2.52,85.7
+TR00383,2019,2021,Other Universities,Ankara,Architecture,Male,Yes,Middle,No,27.0,5.3,0.693,6.96,2.92,100.0
+TR00384,2020,2020,Ege University,Antalya,Engineering,Male,No,Middle,Yes,21.3,1.4,0.79,6.27,2.76,100.0
+TR00385,2017,2020,Ege University,Antalya,Education,Female,Yes,Middle,Yes,12.2,0.9,0.765,5.38,1.97,66.5
+TR00386,2019,2020,Bogazici University,Antalya,Engineering,Female,No,Middle,No,26.7,5.3,0.976,6.3,2.72,100.0
+TR00387,2018,2020,Istanbul University,Bursa,Education,Female,No,Middle,No,20.4,4.1,0.847,7.15,2.33,91.95
+TR00388,2018,2020,Koc University,Antalya,Computer Science,Female,No,Low,Yes,25.1,4.5,0.768,7.39,1.99,100.0
+TR00389,2016,2019,Bogazici University,Izmir,Psychology,Female,Yes,Low,No,16.8,1.1,0.711,8.39,2.88,87.8
+TR00390,2015,2017,Ege University,Samsun,Engineering,Female,No,Middle,No,28.5,3.0,0.719,6.78,2.52,100.0
+TR00391,2016,2020,Middle East Technical University,Istanbul,Law,Female,No,Middle,No,5.2,2.1,0.875,7.84,3.1,81.9
+TR00392,2015,2017,Istanbul Technical University,Antalya,Business,Female,No,Middle,No,21.2,1.5,0.795,7.67,2.02,81.4
+TR00393,2016,2017,Bogazici University,Trabzon,Computer Science,Female,No,Low,Yes,16.2,1.2,0.973,5.16,2.63,84.5
+TR00394,2015,2016,Istanbul University,Kayseri,Law,Female,No,Middle,No,21.7,3.8,0.813,6.07,2.55,99.5
+TR00395,2019,2019,Hacettepe University,Trabzon,Law,Female,No,High,No,15.7,1.8,0.834,7.15,2.12,74.0
+TR00396,2016,2020,Bilkent University,Kayseri,Business,Female,Yes,Middle,Yes,6.0,0.0,0.685,8.35,2.66,77.6
+TR00397,2015,2015,Ege University,Bursa,Economics,Female,Yes,Middle,No,19.0,0.8,0.916,7.47,2.27,96.7
+TR00398,2015,2018,Koc University,Izmir,Business,Male,No,Middle,No,7.2,1.6,0.746,7.59,2.69,78.5
+TR00399,2019,2021,Yildiz Technical University,Istanbul,Engineering,Female,No,High,No,22.0,0.4,0.862,6.7,3.24,100.0
+TR00400,2015,2015,Hacettepe University,Ankara,Statistics,Female,No,Middle,No,14.1,3.8,0.885,7.46,2.88,81.4
+TR00401,2015,2019,Ankara University,Gaziantep,Computer Science,Female,No,Middle,Yes,18.5,3.0,0.778,6.26,2.92,80.0
+TR00402,2015,2018,Gazi University,Istanbul,Architecture,Male,No,High,No,26.0,4.3,0.961,6.14,3.55,100.0
+TR00403,2018,2019,Istanbul University,Gaziantep,Medicine,Male,No,Middle,Yes,23.7,3.6,0.721,6.03,2.69,90.5
+TR00404,2016,2017,Yildiz Technical University,Trabzon,Psychology,Male,No,Middle,No,18.7,0.0,0.954,8.05,2.57,96.1
+TR00405,2018,2018,Gazi University,Konya,Education,Male,Yes,Low,Yes,16.6,0.0,0.688,6.12,2.4,77.3
+TR00406,2015,2017,Istanbul University,Gaziantep,Computer Science,Female,No,Low,Yes,15.2,2.6,0.834,6.52,2.37,81.6
+TR00407,2015,2015,Koc University,Samsun,Computer Science,Male,No,High,No,17.4,1.9,0.809,7.39,2.36,88.0
+TR00408,2015,2015,Middle East Technical University,Adana,Economics,Male,No,Middle,No,25.2,0.7,0.763,6.08,3.21,100.0
+TR00409,2017,2018,Koc University,Samsun,Education,Female,No,Middle,Yes,11.7,1.2,0.637,7.12,2.84,91.95
+TR00410,2017,2018,Bilkent University,Diyarbakir,Business,Female,No,Low,No,19.3,0.9,0.799,7.14,1.97,91.95
+TR00411,2018,2020,Hacettepe University,Kayseri,Engineering,Female,No,Middle,No,27.0,3.2,0.794,6.23,2.49,98.0
+TR00412,2016,2019,Istanbul Technical University,Izmir,Economics,Male,Yes,Middle,No,11.4,0.8,0.854,6.99,2.28,87.5
+TR00413,2016,2018,Istanbul University,Eskisehir,Architecture,Male,No,Low,No,17.4,3.6,0.878,6.26,2.86,88.4
+TR00414,2015,2019,Koc University,Bursa,Psychology,Male,Yes,High,No,19.9,0.6,0.775,8.05,3.43,99.0
+TR00415,2016,2020,Istanbul Technical University,Trabzon,Statistics,Female,No,Low,Yes,5.6,5.0,0.911,7.33,2.75,78.7
+TR00416,2017,2017,Bilkent University,Adana,Computer Science,Female,No,Middle,No,20.5,3.6,0.777,6.09,2.45,84.6
+TR00417,2017,2018,Ege University,Gaziantep,Medicine,Female,No,Middle,Yes,21.0,3.8,0.818,6.76,2.6,98.1
+TR00418,2015,2015,Ankara University,Antalya,Engineering,Female,Yes,Low,No,28.7,3.1,0.847,6.82,2.25,91.7
+TR00419,2016,2019,Hacettepe University,Izmir,Engineering,Male,Yes,High,No,25.7,0.2,0.824,4.98,2.4,92.8
+TR00420,2017,2019,Bilkent University,Adana,Engineering,Male,Yes,Middle,Yes,27.7,5.1,0.793,7.53,3.3,100.0
+TR00421,2015,2015,Bilkent University,Bursa,Economics,Female,No,Middle,Yes,13.8,0.5,0.695,6.09,3.28,81.3
+TR00422,2019,2020,Koc University,Kayseri,Engineering,Male,No,Low,No,23.3,3.5,0.789,8.51,2.38,100.0
+TR00423,2016,2019,Middle East Technical University,Trabzon,Business,Female,Yes,Low,No,14.8,2.4,0.733,7.73,2.67,86.5
+TR00424,2021,2021,Gazi University,Izmir,Architecture,Male,No,Low,Yes,16.4,2.3,0.726,5.9,2.9,87.9
+TR00425,2016,2017,Ankara University,Bursa,Business,Female,No,Middle,Yes,28.9,3.4,0.733,6.17,2.16,90.6
+TR00426,2016,2018,Hacettepe University,Konya,Psychology,Female,No,Middle,No,22.0,0.0,0.888,7.62,2.47,97.8
+TR00427,2015,2015,Ege University,Konya,Computer Science,Female,No,High,Yes,11.6,5.2,0.743,6.75,3.59,91.0
+TR00428,2017,2018,Ege University,Samsun,Medicine,Female,No,Middle,No,45.0,4.6,0.784,7.13,2.64,100.0
+TR00429,2019,2021,Bogazici University,Samsun,Economics,Female,No,High,No,17.0,1.0,0.838,6.73,2.71,100.0
+TR00430,2019,2019,Bilkent University,Bursa,Engineering,Male,No,Middle,No,25.5,2.4,0.834,6.71,2.6,97.6
+TR00431,2019,2019,Istanbul University,Adana,Economics,Male,Yes,Middle,No,24.2,0.0,0.793,7.57,2.02,76.1
+TR00432,2020,2021,Middle East Technical University,Samsun,Computer Science,Male,No,Low,No,14.2,1.8,0.852,7.6,2.67,83.6
+TR00433,2015,2015,Ankara University,Trabzon,Engineering,Female,No,Middle,No,17.0,2.2,0.806,6.29,2.71,93.7
+TR00434,2016,2017,Koc University,Izmir,Medicine,Male,No,Low,Yes,35.7,4.4,0.723,6.57,2.86,100.0
+TR00435,2016,2016,Ege University,Adana,Economics,Female,Yes,Low,Yes,13.1,4.2,0.75,7.03,2.58,77.2
+TR00436,2015,2015,Hacettepe University,Samsun,Statistics,Female,No,Middle,No,25.0,5.7,0.896,6.06,2.72,97.4
+TR00437,2015,2016,Bogazici University,Ankara,Education,Male,Yes,High,No,11.7,1.2,0.803,6.08,2.63,75.3
+TR00438,2020,2021,Hacettepe University,Gaziantep,Computer Science,Male,Yes,Low,Yes,19.8,3.5,0.811,5.15,2.51,88.3
+TR00439,2019,2020,Middle East Technical University,Ankara,Engineering,Female,No,Middle,Yes,31.7,2.0,0.667,6.1,2.38,100.0
+TR00440,2015,2016,Istanbul University,Mersin,Education,Female,No,High,No,17.0,0.0,0.909,6.99,2.61,93.6
+TR00441,2015,2017,Bogazici University,Konya,Education,Male,No,Middle,Yes,9.7,0.0,0.723,7.4,2.78,70.0
+TR00442,2019,2020,Bogazici University,Kayseri,Computer Science,Female,No,Low,No,18.9,2.9,0.852,7.63,2.96,94.7
+TR00443,2015,2016,Gazi University,Istanbul,Statistics,Female,Yes,Low,Yes,12.8,4.6,0.77,6.57,2.74,81.5
+TR00444,2019,2021,Ankara University,Gaziantep,Economics,Female,No,Middle,No,26.8,2.4,0.851,6.67,2.97,100.0
+TR00445,2019,2020,Bogazici University,Konya,Architecture,Female,No,Middle,No,26.6,2.4,0.855,6.14,3.81,100.0
+TR00446,2017,2021,Dokuz Eylul University,Adana,Architecture,Female,No,High,No,15.5,0.9,0.808,7.14,2.39,88.8
+TR00447,2015,2016,Gazi University,Adana,Engineering,Female,No,Middle,Yes,19.9,0.0,0.621,7.47,3.12,92.3
+TR00448,2018,2021,Gazi University,Adana,Business,Male,No,Low,No,17.0,0.0,0.907,7.11,2.65,87.8
+TR00449,2017,2017,Middle East Technical University,Kayseri,Statistics,Female,No,Low,Yes,18.7,0.3,0.759,7.66,2.7,86.8
+TR00450,2015,2016,Dokuz Eylul University,Ankara,Engineering,Male,Yes,Middle,No,18.8,2.3,0.869,7.74,3.15,91.4
+TR00451,2016,2016,Istanbul Technical University,Istanbul,Law,Male,No,Low,Yes,22.0,4.0,0.825,7.8,2.53,93.2
+TR00452,2015,2016,Hacettepe University,Trabzon,Statistics,Male,Unknown,Middle,Yes,16.4,3.9,0.733,6.9,2.2,76.9
+TR00453,2015,2015,Istanbul University,Samsun,Law,Female,Yes,Middle,No,20.2,3.1,0.881,6.51,2.51,95.3
+TR00454,2015,2015,Yildiz Technical University,Adana,Engineering,Female,No,Low,Yes,14.3,2.6,0.71,7.36,1.55,66.2
+TR00455,2015,2015,Hacettepe University,Eskisehir,Law,Male,No,Low,No,13.6,4.2,0.851,6.83,2.91,99.7
+TR00456,2016,2017,Bogazici University,Mersin,Medicine,Male,No,Middle,No,44.7,2.0,0.822,6.67,3.36,100.0
+TR00457,2019,2020,Istanbul University,Gaziantep,Business,Female,Yes,Low,No,27.8,3.2,0.806,6.18,3.61,93.8
+TR00458,2017,2021,Ege University,Izmir,Engineering,Male,Yes,Low,Yes,21.0,0.7,0.794,6.0,2.91,94.2
+TR00459,2017,2019,Istanbul Technical University,Samsun,Computer Science,Female,No,Middle,No,31.8,0.7,0.736,7.56,3.2,100.0
+TR00460,2016,2016,Ege University,Eskisehir,Business,Female,No,High,No,22.7,3.6,0.845,6.05,2.95,100.0
+TR00461,2019,2021,Dokuz Eylul University,Istanbul,Education,Female,No,Low,Yes,9.6,1.3,0.803,7.82,2.82,69.8
+TR00462,2015,2016,Ege University,Kayseri,Computer Science,Female,No,Middle,No,17.1,1.5,0.848,7.5,3.26,100.0
+TR00463,2015,2017,Koc University,Trabzon,Law,Female,No,Middle,Yes,19.8,3.6,0.89,6.77,2.94,95.5
+TR00464,2015,2016,Ankara University,Trabzon,Computer Science,Male,No,Middle,No,23.0,4.5,0.812,5.34,2.6,90.9
+TR00465,2015,2015,Hacettepe University,Istanbul,Engineering,Male,No,High,No,19.6,1.9,0.818,8.14,2.75,100.0
+TR00466,2015,2019,Yildiz Technical University,Izmir,Law,Female,No,Middle,No,23.9,2.2,0.726,6.07,3.13,100.0
+TR00467,2017,2018,Koc University,Gaziantep,Engineering,Female,No,High,No,14.5,2.8,0.946,7.87,2.65,99.5
+TR00468,2015,2016,Middle East Technical University,Diyarbakir,Architecture,Female,Yes,Low,Yes,18.1,0.0,0.67,6.19,3.01,88.0
+TR00469,2021,2021,Yildiz Technical University,Izmir,Engineering,Female,No,Low,Yes,14.0,1.2,0.788,6.25,3.42,90.1
+TR00470,2015,2015,Ege University,Trabzon,Business,Male,No,High,Yes,4.8,2.5,0.721,7.68,3.02,72.1
+TR00471,2015,2018,Bogazici University,Bursa,Computer Science,Male,No,Middle,Yes,15.0,1.3,0.803,7.27,3.02,84.0
+TR00472,2016,2019,Istanbul Technical University,Gaziantep,Business,Male,No,Low,Yes,15.8,2.6,0.665,5.9,2.72,86.5
+TR00473,2017,2018,Bilkent University,Istanbul,Engineering,Male,No,Middle,No,19.1,3.2,0.891,8.11,2.47,89.9
+TR00474,2015,2015,Yildiz Technical University,Trabzon,Law,Female,No,High,No,10.7,3.5,0.744,7.05,2.29,91.5
+TR00475,2017,2020,Ege University,Trabzon,Computer Science,Female,No,High,No,25.9,0.2,0.913,6.82,2.64,100.0
+TR00476,2018,2020,Istanbul Technical University,Adana,Computer Science,Female,No,Middle,No,32.0,3.2,0.746,6.34,3.17,100.0
+TR00477,2018,2018,Istanbul University,Istanbul,Economics,Female,No,High,No,22.0,1.3,0.898,6.0,2.82,84.0
+TR00478,2015,2017,Hacettepe University,Diyarbakir,Law,Male,No,Low,No,29.6,1.1,0.803,7.24,2.78,100.0
+TR00479,2017,2021,Gazi University,Istanbul,Business,Female,No,Low,Yes,22.9,0.5,0.721,6.84,2.9,77.8
+TR00480,2018,2021,Ankara University,Diyarbakir,Computer Science,Female,Yes,Middle,Yes,18.9,3.0,0.79,6.12,2.41,77.3
+TR00481,2016,2018,Istanbul Technical University,Gaziantep,Law,Male,No,Low,Yes,20.0,3.4,0.702,7.45,2.39,75.0
+TR00482,2015,2016,Bogazici University,Mersin,Law,Male,Yes,Middle,No,17.9,1.9,0.77,7.05,2.93,95.3
+TR00483,2015,2016,Dokuz Eylul University,Bursa,Medicine,Male,No,Middle,Yes,31.8,3.7,0.703,6.4,2.68,100.0
+TR00484,2017,2021,Bogazici University,Samsun,Engineering,Female,Yes,Middle,No,18.9,2.0,0.866,8.25,2.83,100.0
+TR00485,2019,2021,Istanbul Technical University,Istanbul,Engineering,Female,No,Low,Yes,16.7,2.7,0.77,5.5,2.12,77.8
+TR00486,2018,2020,Bogazici University,Eskisehir,Engineering,Female,No,Low,No,32.2,2.1,0.824,5.28,2.78,100.0
+TR00487,2015,2017,Hacettepe University,Konya,Business,Female,No,Middle,No,17.7,0.4,0.794,5.89,3.53,92.4
+TR00488,2015,2015,Bogazici University,Antalya,Computer Science,Female,Yes,Middle,No,17.0,3.6,0.884,7.32,2.65,100.0
+TR00489,2015,2016,Yildiz Technical University,Antalya,Medicine,Female,No,Middle,Yes,22.4,4.6,0.854,6.33,2.27,91.0
+TR00490,2019,2021,Gazi University,Istanbul,Architecture,Male,No,Middle,Yes,15.4,0.0,0.816,6.6,3.16,100.0
+TR00491,2019,2018,Bogazici University,Diyarbakir,Engineering,Female,No,Middle,No,18.0,1.4,0.803,6.25,2.97,99.1
+TR00492,2015,2019,Gazi University,Eskisehir,Education,Unknown,No,High,No,12.7,0.0,0.722,8.49,2.86,81.3
+TR00493,2020,2020,Ege University,Mersin,Computer Science,Male,Yes,Low,Yes,22.2,3.1,0.632,8.22,2.04,82.7
+TR00494,2015,2016,Middle East Technical University,Adana,Economics,Female,No,Low,Yes,14.8,0.0,0.765,7.57,2.07,68.4
+TR00495,2015,2016,Hacettepe University,Diyarbakir,Engineering,Male,No,High,No,19.8,1.2,0.661,5.74,2.03,83.8
+TR00496,2017,2020,Middle East Technical University,Kayseri,Computer Science,Female,No,Middle,No,32.0,0.4,0.804,6.19,3.16,100.0
+TR00497,2015,2015,Ege University,Kayseri,Economics,Female,Yes,High,No,4.9,2.0,0.952,8.05,3.29,89.7
+TR00498,2016,2018,Hacettepe University,Gaziantep,Architecture,Male,No,Middle,Yes,20.0,2.0,0.678,6.65,2.9,82.9
+TR00499,2015,2016,Istanbul Technical University,Antalya,Law,Female,Yes,Middle,No,17.5,1.1,0.717,7.74,3.56,96.6
+TR00500,2018,2020,Istanbul Technical University,Istanbul,Architecture,Male,No,Middle,No,16.2,0.3,0.871,8.05,2.59,91.95
+TR00501,2021,2021,Gazi University,Kayseri,Medicine,Female,No,Middle,No,32.6,2.8,0.596,8.09,2.59,95.3
+TR00502,2018,2020,Ege University,Istanbul,Computer Science,Male,No,Middle,No,21.7,1.7,0.851,6.37,2.89,100.0
+TR00503,2015,2017,Gazi University,Gaziantep,Computer Science,Female,No,Middle,Yes,26.3,5.2,0.887,6.57,2.84,100.0
+TR00504,2016,2018,Ankara University,Antalya,Computer Science,Female,No,Middle,Yes,24.4,4.2,0.7,6.21,2.99,84.6
+TR00505,2016,2019,Bogazici University,Izmir,Medicine,Female,No,High,No,18.9,2.2,0.736,4.71,2.77,100.0
+TR00506,2015,2015,Bilkent University,Mersin,Computer Science,Male,No,Low,No,18.1,3.5,0.867,7.56,2.08,94.3
+TR00507,2018,2019,Ankara University,Konya,Business,Male,No,Low,No,25.0,3.3,0.726,7.24,1.94,79.5
+TR00508,2017,2018,Bogazici University,Konya,Education,Male,No,Middle,Yes,5.2,0.0,0.835,6.7,2.88,80.8
+TR00509,2015,2018,Hacettepe University,Kayseri,Economics,Female,Yes,Middle,No,17.5,0.0,0.753,5.74,2.55,82.6
+TR00510,2018,2018,Gazi University,Konya,Psychology,Male,No,High,No,14.4,0.0,0.961,6.8,2.44,83.8
+TR00511,2019,2019,Hacettepe University,Trabzon,Engineering,Male,No,Middle,No,27.2,4.8,0.873,7.31,2.65,100.0
+TR00512,2021,2021,Koc University,Mersin,Education,Male,Yes,Middle,No,19.9,0.7,0.843,8.01,3.82,100.0
+TR00513,2018,2018,Koc University,Diyarbakir,Psychology,Female,No,Middle,Yes,8.8,1.8,0.907,6.46,2.26,71.5
+TR00514,2020,2020,Koc University,Izmir,Education,Male,No,Middle,Yes,16.9,0.1,0.853,7.67,3.18,90.5
+TR00515,2015,2019,Hacettepe University,Mersin,Business,Male,No,High,No,14.3,0.0,0.849,7.61,3.05,87.2
+TR00516,2016,2018,Bogazici University,Trabzon,Business,Female,Yes,Low,No,11.3,0.1,0.691,7.53,3.17,92.2
+TR00517,2019,2020,Koc University,Diyarbakir,Statistics,Male,Yes,Middle,No,20.9,0.3,0.784,5.88,2.78,82.1
+TR00518,2021,2021,Ege University,Trabzon,Medicine,Male,Yes,High,No,21.5,4.7,0.927,5.89,2.26,92.9
+TR00519,2015,2017,Dokuz Eylul University,Istanbul,Law,Female,No,High,No,24.4,4.0,0.716,6.14,3.32,100.0
+TR00520,2019,2021,Bogazici University,Gaziantep,Computer Science,Female,No,Middle,Yes,20.1,2.7,0.709,6.43,2.6,94.5
+TR00521,2017,2018,Koc University,Samsun,Computer Science,Female,No,Middle,Yes,19.0,0.2,0.688,8.16,3.25,100.0
+TR00522,2015,2019,Istanbul University,Izmir,Medicine,Male,Yes,Low,No,29.1,4.9,0.872,6.14,3.22,100.0
+TR00523,2015,2016,Istanbul Technical University,Samsun,Computer Science,Male,Yes,Middle,Yes,28.3,4.6,0.867,7.06,3.46,100.0
+TR00524,2015,2018,Istanbul Technical University,Gaziantep,Education,Female,No,High,No,24.3,2.4,0.897,6.44,4.0,100.0
+TR00525,2015,2016,Ankara University,Gaziantep,Engineering,Male,No,Middle,Yes,27.5,2.8,0.702,6.84,2.92,96.9
+TR00526,2019,2020,Istanbul Technical University,Trabzon,Architecture,Male,No,Low,Yes,18.5,2.2,0.801,6.68,3.32,100.0
+TR00527,2015,2017,Bogazici University,Antalya,Engineering,Female,Yes,Low,Yes,13.1,3.3,0.718,7.04,2.36,77.7
+TR00528,2015,2015,Yildiz Technical University,Trabzon,Economics,Male,No,Low,No,16.9,4.2,0.803,7.33,2.91,96.0
+TR00529,2017,2021,Gazi University,Samsun,Engineering,Male,No,Low,Yes,23.3,4.6,0.812,6.39,2.49,100.0
+TR00530,2015,2017,Bogazici University,Other cities,Engineering,Male,Yes,Low,No,27.7,2.8,0.925,7.01,3.14,100.0
+TR00531,2016,2018,Dokuz Eylul University,Istanbul,Architecture,Male,Yes,Middle,No,23.1,1.3,0.668,7.84,2.95,81.5
+TR00532,2015,2016,Other Universities,Trabzon,Economics,Male,No,Low,No,11.2,1.4,0.828,6.6,1.67,72.6
+TR00533,2021,2021,Bilkent University,Eskisehir,Business,Male,No,Low,No,14.2,0.1,0.933,8.06,2.47,88.3
+TR00534,2015,2016,Gazi University,Konya,Medicine,Female,No,Middle,Yes,18.9,5.7,0.789,6.43,2.83,93.6
+TR00535,2019,2019,Istanbul University,Samsun,Law,Male,No,Low,No,22.8,1.1,0.827,6.56,1.74,75.1
+TR00536,2015,2016,Istanbul Technical University,Eskisehir,Law,Male,No,Low,Yes,18.8,3.2,0.725,7.29,2.57,89.3
+TR00537,2019,2019,Gazi University,Antalya,Economics,Male,Yes,Middle,No,22.8,0.5,0.95,6.58,2.78,100.0
+TR00538,2020,2020,Istanbul Technical University,Gaziantep,Economics,Female,No,Low,Yes,17.8,1.4,0.729,7.01,3.21,94.6
+TR00539,2018,2021,Ankara University,Kayseri,Psychology,Male,No,Middle,No,6.0,1.1,0.812,7.54,2.29,62.1
+TR00540,2019,2021,Gazi University,Mersin,Economics,Female,Yes,Low,No,9.0,3.1,0.802,5.6,3.21,86.5
+TR00541,2015,2015,Koc University,Diyarbakir,Business,Male,No,Middle,No,14.2,0.8,0.829,7.45,3.31,98.8
+TR00542,2018,2018,Istanbul Technical University,Konya,Economics,Female,No,High,No,18.8,0.0,0.934,5.82,2.01,75.1
+TR00543,2015,2019,Istanbul University,Diyarbakir,Education,Female,No,Middle,No,23.1,1.0,0.748,5.75,2.92,100.0
+TR00544,2015,2015,Koc University,Trabzon,Economics,Female,No,Middle,Yes,14.5,0.4,0.779,7.15,2.81,86.9
+TR00545,2016,2016,Middle East Technical University,Konya,Business,Female,No,High,No,9.5,3.5,0.851,7.68,3.48,98.9
+TR00546,2016,2016,Hacettepe University,Istanbul,Medicine,Male,No,Middle,Yes,29.4,3.1,0.705,7.37,2.9,95.7
+TR00547,2015,2015,Hacettepe University,Bursa,Statistics,Male,Yes,Low,No,18.9,1.9,0.835,6.1,3.37,100.0
+TR00548,2019,2021,Istanbul University,Ankara,Economics,Male,No,Middle,No,17.0,4.8,0.968,6.44,2.55,81.2
+TR00549,2015,2016,Bilkent University,Ankara,Education,Female,No,High,No,4.7,2.0,0.679,7.77,1.89,58.3
+TR00550,2020,2020,Middle East Technical University,Ankara,Business,Female,No,Middle,No,17.5,0.0,0.786,7.99,2.49,87.8
+TR00551,2016,2020,Ankara University,Bursa,Medicine,Male,No,Low,Yes,28.4,2.8,0.79,6.59,3.44,100.0
+TR00552,2015,2015,Istanbul University,Diyarbakir,Education,Male,No,Middle,No,8.0,1.8,0.79,6.6,3.09,81.9
+TR00553,2018,2019,Koc University,Istanbul,Economics,Female,Yes,High,Yes,20.1,1.5,0.99,7.89,4.0,100.0
+TR00554,2019,2019,Hacettepe University,Bursa,Psychology,Female,No,Low,No,21.5,3.3,0.864,6.68,2.16,89.8
+TR00555,2015,2015,Hacettepe University,Ankara,Architecture,Female,Yes,Middle,No,20.3,0.9,0.756,6.75,3.28,100.0
+TR00556,2015,2019,Hacettepe University,Antalya,Psychology,Male,Yes,Low,No,17.7,3.0,0.653,5.86,2.98,90.7
+TR00557,2020,2021,Koc University,Izmir,Engineering,Male,No,Middle,No,30.1,0.0,0.847,7.22,2.82,100.0
+TR00558,2017,2021,Ege University,Samsun,Education,Female,No,Low,Yes,15.6,1.4,0.71,7.5,2.97,79.2
+TR00559,2019,2019,Istanbul University,Gaziantep,Business,Female,Unknown,Middle,No,12.4,0.2,0.943,6.6,2.94,90.0
+TR00560,2018,2020,Bogazici University,Bursa,Psychology,Male,No,High,No,16.8,0.4,0.798,8.44,3.08,100.0
+TR00561,2018,2019,Ankara University,Istanbul,Computer Science,Female,Yes,Middle,Yes,22.9,2.4,0.745,6.13,3.14,100.0
+TR00562,2019,2021,Hacettepe University,Istanbul,Education,Female,No,Middle,Yes,1.2,2.8,0.723,7.75,2.96,69.1
+TR00563,2015,2017,Istanbul Technical University,Samsun,Business,Male,No,Middle,No,10.2,0.0,0.899,7.41,2.8,89.8
+TR00564,2017,2018,Istanbul University,Eskisehir,Law,Female,No,Low,No,23.3,0.0,0.853,5.22,3.58,100.0
+TR00565,2015,2016,Dokuz Eylul University,Izmir,Engineering,Female,Yes,Middle,No,29.7,1.1,0.98,7.09,3.0,100.0
+TR00566,2015,2017,Koc University,Kayseri,Education,Male,No,Low,Yes,17.9,3.2,0.753,7.12,3.54,97.6
+TR00567,2018,2019,Ege University,Konya,Business,Male,No,Middle,No,22.0,0.0,0.889,5.47,2.42,97.5
+TR00568,2018,2020,Istanbul University,Ankara,Business,Male,No,Low,Yes,14.8,0.9,0.84,8.07,2.24,78.6
+TR00569,2015,2015,Ankara University,Trabzon,Education,Male,No,Middle,No,7.8,2.3,0.874,7.67,2.32,80.3
+TR00570,2019,2019,Ege University,Kayseri,Law,Male,No,High,Yes,15.4,1.5,0.729,7.82,3.18,84.7
+TR00571,2018,2020,Ankara University,Eskisehir,Medicine,Male,Yes,High,No,18.0,5.1,0.878,5.63,2.51,88.0
+TR00572,2015,2018,Istanbul University,Ankara,Law,Female,No,Middle,No,27.0,0.0,0.812,6.4,3.58,100.0
+TR00573,2016,2019,Bogazici University,Izmir,Business,Male,No,Low,Yes,8.7,1.3,0.76,7.97,2.29,91.95
+TR00574,2017,2021,Dokuz Eylul University,Mersin,Business,Male,Yes,Middle,No,14.2,3.3,0.776,5.86,2.95,86.6
+TR00575,2015,2015,Ankara University,Trabzon,Engineering,Female,No,High,No,28.4,0.8,0.65,6.38,3.13,96.5
+TR00576,2018,2020,Ege University,Eskisehir,Medicine,Female,Yes,Low,Yes,17.3,5.8,0.89,7.1,2.23,75.3
+TR00577,2016,2020,Ege University,Diyarbakir,Economics,Female,No,High,No,11.9,1.0,0.855,5.67,2.19,92.1
+TR00578,2016,2020,Ankara University,Ankara,Computer Science,Female,No,Middle,Yes,21.6,3.3,0.663,5.58,2.82,88.0
+TR00579,2017,2018,Yildiz Technical University,Izmir,Engineering,Female,No,High,No,26.3,4.6,0.877,7.86,2.87,100.0
+TR00580,2016,2019,Istanbul University,Adana,Business,Male,No,High,No,16.2,1.7,0.921,7.1,3.17,96.8
+TR00581,2018,2018,Yildiz Technical University,Kayseri,Architecture,Male,No,High,No,21.0,0.9,0.882,7.85,2.34,83.8
+TR00582,2015,2016,Bilkent University,Kayseri,Engineering,Female,No,Middle,No,30.0,3.7,0.749,6.79,2.71,100.0
+TR00583,2015,2016,Istanbul University,Konya,Business,Female,Yes,Low,Yes,16.2,0.7,0.731,8.77,2.59,94.4
+TR00584,2019,2019,Ankara University,Samsun,Education,Female,No,Middle,Yes,15.6,1.4,0.726,7.17,1.64,73.6
+TR00585,2017,2021,Middle East Technical University,Izmir,Architecture,Male,Yes,Middle,No,27.1,0.0,0.909,7.74,3.48,100.0
+TR00586,2017,2018,Ankara University,Bursa,Education,Female,No,Low,No,13.4,1.6,0.858,6.94,2.37,90.2
+TR00587,2015,2015,Yildiz Technical University,Adana,Computer Science,Female,Yes,Middle,No,34.0,4.5,0.99,6.69,3.82,100.0
+TR00588,2016,2020,Bogazici University,Mersin,Education,Female,No,Middle,No,2.2,0.5,0.689,7.99,2.19,60.9
+TR00589,2019,2020,Ankara University,Antalya,Business,Female,No,Middle,Yes,22.7,2.9,0.766,7.25,2.61,84.4
+TR00590,2016,2019,Ankara University,Ankara,Education,Female,No,Middle,No,21.0,5.9,0.666,6.88,2.21,86.3
+TR00591,2020,2021,Bogazici University,Trabzon,Engineering,Male,No,Low,Yes,22.9,3.4,0.818,6.61,3.23,100.0
+TR00592,2015,2016,Ankara University,Adana,Architecture,Male,Yes,High,No,20.9,2.8,0.925,7.32,3.24,99.2
+TR00593,2015,2016,Hacettepe University,Izmir,Other Majors,Male,No,Low,Yes,11.5,2.6,0.885,7.35,3.3,99.4
+TR00594,2019,2020,Middle East Technical University,Diyarbakir,Law,Female,No,Middle,No,26.6,2.2,0.835,5.92,2.82,100.0
+TR00595,2017,2019,Istanbul Technical University,Gaziantep,Medicine,Male,Yes,Middle,No,29.4,4.8,0.687,6.84,2.79,100.0
+TR00596,2015,2018,Middle East Technical University,Ankara,Education,Male,No,High,Yes,7.8,0.4,0.766,7.31,1.97,91.95
+TR00597,2015,2016,Koc University,Istanbul,Engineering,Female,Yes,Low,Yes,24.8,2.3,0.825,5.76,2.52,89.3
+TR00598,2017,2018,Dokuz Eylul University,Kayseri,Psychology,Male,No,Middle,Yes,23.7,0.0,0.69,7.3,2.88,100.0
+TR00599,2019,2021,Ankara University,Diyarbakir,Education,Female,Yes,Middle,No,4.8,0.5,0.819,7.73,2.87,77.6
+TR00600,2015,2016,Hacettepe University,Samsun,Medicine,Male,Yes,Low,Yes,39.5,5.5,0.688,7.97,3.68,100.0
+TR00601,2015,2016,Istanbul University,Izmir,Education,Female,Yes,Middle,No,8.2,0.0,0.791,7.27,1.89,70.9
+TR00602,2015,2017,Ankara University,Mersin,Education,Male,No,High,No,9.0,1.2,0.893,8.18,2.95,86.0
+TR00603,2016,2016,Yildiz Technical University,Istanbul,Computer Science,Female,Yes,High,No,13.9,2.2,0.894,7.55,2.73,100.0
+TR00604,2015,2015,Hacettepe University,Konya,Economics,Male,No,Low,No,17.0,1.2,0.708,8.57,2.63,80.6
+TR00605,2015,2019,Bogazici University,Trabzon,Medicine,Male,Yes,Low,Yes,18.9,1.1,0.734,5.95,2.64,85.1
+TR00606,2016,2019,Hacettepe University,Eskisehir,Medicine,Male,No,Middle,Yes,19.7,5.7,0.775,6.3,2.6,100.0
+TR00607,2016,2018,Koc University,Antalya,Economics,Female,Yes,Middle,No,14.1,2.4,0.858,6.37,2.31,84.4
+TR00608,2018,2021,Bogazici University,Antalya,Architecture,Female,No,Low,Yes,20.2,6.9,0.717,6.62,2.78,85.4
+TR00609,2016,2016,Bilkent University,Diyarbakir,Engineering,Male,No,Low,No,23.8,5.1,0.858,5.93,2.64,98.4
+TR00610,2015,2015,Istanbul Technical University,Istanbul,Education,Female,Yes,High,No,21.4,2.9,0.837,5.68,2.4,98.9
+TR00611,2018,2018,Gazi University,Kayseri,Economics,Female,No,High,No,25.5,0.0,0.614,5.07,2.77,92.6
+TR00612,2015,2017,Hacettepe University,Konya,Law,Male,No,Low,Yes,21.9,0.0,0.724,4.87,2.54,83.4
+TR00613,2015,2018,Ege University,Gaziantep,Education,Male,No,Middle,No,13.6,1.1,0.772,7.66,1.64,74.5
+TR00614,2018,2018,Yildiz Technical University,Kayseri,Psychology,Female,No,Middle,Yes,3.2,0.0,0.824,6.83,3.48,78.9
+TR00615,2016,2016,Ankara University,Adana,Economics,Female,No,Low,Yes,3.2,1.1,0.826,6.21,2.51,59.9
+TR00616,2015,2017,Yildiz Technical University,Samsun,Business,Female,No,Middle,No,21.9,5.2,0.686,6.36,1.67,83.4
+TR00617,2015,2018,Middle East Technical University,Antalya,Business,Male,No,Middle,No,21.3,3.1,0.855,6.48,3.0,100.0
+TR00618,2015,2015,Gazi University,Adana,Engineering,Male,No,High,No,18.3,1.1,0.814,6.22,2.73,95.5
+TR00619,2015,2015,Middle East Technical University,Mersin,Economics,Male,No,Middle,Unknown,8.4,0.0,0.83,8.57,2.07,80.1
+TR00620,2018,2019,Bilkent University,Ankara,Business,Male,No,Middle,No,10.3,0.0,0.771,8.36,2.8,76.2
+TR00621,2015,2017,Gazi University,Bursa,Business,Female,No,Middle,No,16.8,0.3,0.815,8.31,2.37,90.1
+TR00622,2017,2017,Gazi University,Izmir,Computer Science,Female,Yes,Low,Yes,19.9,2.7,0.882,6.84,2.88,90.1
+TR00623,2019,2019,Middle East Technical University,Trabzon,Economics,Female,No,Middle,No,24.9,0.0,0.829,7.02,2.59,89.1
+TR00624,2015,2018,Bogazici University,Konya,Business,Female,Yes,Middle,No,13.5,3.0,0.837,6.61,2.4,79.3
+TR00625,2017,2017,Koc University,Kayseri,Business,Male,Yes,Low,Yes,11.3,0.7,0.752,6.27,2.6,79.5
+TR00626,2015,2015,Middle East Technical University,Antalya,Education,Male,Unknown,Low,Yes,17.8,2.6,0.854,6.77,2.04,89.1
+TR00627,2015,2015,Yildiz Technical University,Adana,Other Majors,Female,No,Low,Yes,0.2,2.0,0.668,7.8,2.3,60.4
+TR00628,2015,2016,Bogazici University,Eskisehir,Law,Female,Yes,High,Yes,17.3,3.1,0.726,7.73,3.12,94.5
+TR00629,2015,2017,Yildiz Technical University,Diyarbakir,Education,Male,No,Low,Yes,9.8,1.2,0.663,6.56,3.07,72.2
+TR00630,2016,2018,Koc University,Samsun,Economics,Male,No,Low,No,22.5,0.7,0.836,5.86,3.27,100.0
+TR00631,2018,2019,Bilkent University,Samsun,Law,Female,No,Middle,No,22.7,0.8,0.914,7.45,3.53,100.0
+TR00632,2015,2019,Ankara University,Ankara,Economics,Male,No,Middle,No,14.4,0.7,0.794,5.65,2.52,83.0
+TR00633,2015,2018,Koc University,Izmir,Business,Male,No,Low,No,13.2,5.1,0.734,7.11,2.11,72.0
+TR00634,2017,2021,Dokuz Eylul University,Izmir,Computer Science,Female,Yes,High,No,9.6,2.5,0.971,7.32,3.26,96.0
+TR00635,2018,2020,Istanbul University,Samsun,Psychology,Male,Yes,High,No,22.5,1.1,0.876,6.56,2.84,100.0
+TR00636,2015,2016,Bogazici University,Samsun,Engineering,Female,No,Middle,No,23.8,4.2,0.842,5.59,2.85,100.0
+TR00637,2017,2019,Bilkent University,Kayseri,Computer Science,Male,Yes,Middle,No,31.0,2.6,0.825,6.32,3.35,100.0
+TR00638,2015,2017,Dokuz Eylul University,Konya,Law,Male,No,Low,Yes,13.4,4.2,0.824,8.2,3.52,96.1
+TR00639,2015,2016,Ege University,Gaziantep,Engineering,Male,No,Middle,No,27.9,2.2,0.841,7.18,3.15,100.0
+TR00640,2017,2017,Bilkent University,Mersin,Medicine,Male,No,Middle,Yes,19.4,2.7,0.731,7.64,2.74,84.8
+TR00641,2018,2021,Middle East Technical University,Eskisehir,Economics,Female,Yes,Low,No,3.2,0.6,0.815,6.47,2.01,73.4
+TR00642,2015,2015,Middle East Technical University,Mersin,Engineering,Male,No,Low,Yes,18.4,6.4,0.688,6.94,3.07,98.7
+TR00643,2015,2016,Koc University,Kayseri,Medicine,Male,No,Middle,No,25.0,3.4,0.728,6.86,2.91,100.0
+TR00644,2016,2019,Istanbul University,Adana,Medicine,Male,No,Low,Yes,20.3,2.2,0.746,6.77,2.42,77.1
+TR00645,2015,2016,Bilkent University,Bursa,Economics,Male,Yes,High,No,22.8,1.7,0.932,7.3,2.89,100.0
+TR00646,2015,2016,Istanbul Technical University,Samsun,Education,Male,No,Low,No,21.6,0.6,0.737,7.01,2.55,93.6
+TR00647,2015,2016,Ankara University,Istanbul,Law,Male,No,Middle,Yes,16.0,1.2,0.837,5.86,2.78,81.1
+TR00648,2016,2020,Koc University,Gaziantep,Statistics,Female,No,Middle,No,19.9,2.9,0.756,7.43,2.09,95.6
+TR00649,2015,2016,Middle East Technical University,Konya,Business,Male,No,Middle,No,15.8,3.6,0.677,7.74,3.22,92.2
+TR00650,2015,2017,Istanbul University,Ankara,Education,Male,Yes,Middle,No,10.9,1.2,0.884,8.27,3.31,92.8
+TR00651,2015,2015,Ankara University,Gaziantep,Psychology,Male,No,Middle,Unknown,16.4,0.2,0.9,7.89,2.79,84.4
+TR00652,2021,2021,Bilkent University,Samsun,Computer Science,Male,No,High,No,14.2,1.6,0.752,7.5,2.55,76.7
+TR00653,2017,2018,Bilkent University,Antalya,Business,Female,No,Middle,No,9.8,2.3,0.694,6.33,2.58,84.1
+TR00654,2016,2016,Gazi University,Konya,Education,Female,No,Middle,No,9.7,0.0,0.856,6.03,2.82,82.5
+TR00655,2019,2019,Istanbul University,Bursa,Medicine,Male,Yes,Middle,Yes,29.8,1.8,0.716,6.21,2.71,100.0
+TR00656,2015,2016,Dokuz Eylul University,Antalya,Economics,Male,Yes,Middle,No,15.6,1.9,0.883,7.81,3.31,94.0
+TR00657,2017,2019,Middle East Technical University,Gaziantep,Law,Female,Yes,Middle,No,27.8,0.0,0.932,7.39,2.42,100.0
+TR00658,2015,2017,Istanbul Technical University,Istanbul,Law,Male,Yes,High,No,23.6,1.1,0.866,7.05,2.71,100.0
+TR00659,2015,2019,Bilkent University,Istanbul,Engineering,Female,No,Low,Yes,15.8,2.6,0.835,6.79,2.97,85.9
+TR00660,2018,2018,Istanbul Technical University,Bursa,Architecture,Male,No,Middle,No,25.0,3.4,0.885,8.31,3.08,100.0
+TR00661,2015,2015,Bilkent University,Izmir,Computer Science,Female,No,Middle,No,18.6,2.2,0.899,7.44,2.53,93.0
+TR00662,2017,2019,Middle East Technical University,Trabzon,Business,Female,No,Middle,No,19.4,3.1,0.824,6.89,3.02,97.0
+TR00663,2016,2019,Other Universities,Eskisehir,Architecture,Female,Yes,High,No,26.7,1.9,0.902,6.22,2.75,94.0
+TR00664,2015,2015,Hacettepe University,Samsun,Business,Female,Unknown,High,No,21.7,3.8,0.833,6.08,2.82,99.9
+TR00665,2018,2018,Ankara University,Ankara,Statistics,Female,Yes,Middle,Yes,18.4,0.2,0.821,5.85,3.29,99.4
+TR00666,2015,2016,Bilkent University,Samsun,Business,Female,No,Low,No,25.0,4.4,0.99,5.98,3.38,100.0
+TR00667,2017,2019,Yildiz Technical University,Izmir,Engineering,Female,No,Low,No,26.2,2.7,0.839,6.98,2.91,93.2
+TR00668,2015,2015,Hacettepe University,Mersin,Education,Male,No,Middle,No,14.8,3.4,0.7,7.08,2.23,88.4
+TR00669,2015,2017,Dokuz Eylul University,Mersin,Computer Science,Male,No,High,No,20.0,4.3,0.804,6.68,2.69,100.0
+TR00670,2015,2015,Hacettepe University,Diyarbakir,Education,Female,No,Low,Yes,7.2,0.0,0.745,7.66,2.57,69.9
+TR00671,2016,2017,Istanbul Technical University,Mersin,Architecture,Male,No,Low,No,23.3,3.4,0.799,8.29,3.39,100.0
+TR00672,2018,2018,Istanbul University,Istanbul,Education,Female,Yes,Low,Yes,12.8,3.2,0.866,6.25,1.95,69.9
+TR00673,2015,2016,Istanbul Technical University,Istanbul,Computer Science,Male,No,High,No,23.0,4.5,0.91,6.31,2.6,92.4
+TR00674,2015,2015,Koc University,Adana,Psychology,Male,No,Middle,No,18.9,0.0,0.812,5.2,3.34,90.6
+TR00675,2017,2021,Istanbul Technical University,Antalya,Computer Science,Female,Yes,Middle,Yes,21.9,3.5,0.679,6.61,3.37,100.0
+TR00676,2017,2021,Dokuz Eylul University,Gaziantep,Business,Female,No,Middle,Yes,26.5,1.5,0.778,6.39,2.88,88.7
+TR00677,2020,2020,Yildiz Technical University,Ankara,Psychology,Female,No,High,No,14.8,1.8,0.777,7.81,3.52,94.4
+TR00678,2019,2019,Ankara University,Bursa,Medicine,Female,No,Middle,No,32.2,5.1,0.837,6.5,2.59,100.0
+TR00679,2015,2018,Ankara University,Gaziantep,Computer Science,Male,No,Middle,No,20.8,4.5,0.81,6.44,2.12,78.5
+TR00680,2015,2015,Ege University,Samsun,Psychology,Female,No,Low,Yes,18.9,0.9,0.867,7.44,2.85,63.4
+TR00681,2020,2021,Bilkent University,Adana,Computer Science,Female,No,Middle,Yes,19.2,3.0,0.803,7.16,3.34,93.2
+TR00682,2017,2019,Yildiz Technical University,Istanbul,Computer Science,Female,No,Middle,Yes,14.0,2.7,0.727,5.58,3.21,85.9
+TR00683,2021,2021,Ege University,Bursa,Education,Female,No,High,Yes,13.0,0.4,0.659,7.71,2.33,72.9
+TR00684,2015,2015,Koc University,Istanbul,Business,Male,No,Low,Yes,11.8,1.6,0.766,7.98,2.67,75.9
+TR00685,2015,2017,Middle East Technical University,Trabzon,Psychology,Female,No,Low,No,19.1,2.2,0.816,7.4,3.12,96.1
+TR00686,2015,2015,Bilkent University,Ankara,Medicine,Male,No,Low,Yes,21.8,3.1,0.749,5.89,2.73,97.3
+TR00687,2016,2020,Bilkent University,Antalya,Engineering,Female,No,Middle,No,21.6,4.2,0.882,6.63,3.5,100.0
+TR00688,2015,2015,Gazi University,Diyarbakir,Economics,Female,No,High,No,21.2,3.4,0.709,7.85,2.65,91.9
+TR00689,2015,2015,Gazi University,Gaziantep,Law,Male,No,Low,No,13.1,1.1,0.759,6.36,2.52,78.6
+TR00690,2020,2020,Bogazici University,Gaziantep,Business,Female,No,Middle,Yes,3.0,3.3,0.774,7.7,2.66,74.6
+TR00691,2017,2018,Bogazici University,Mersin,Education,Male,No,Middle,Yes,13.1,0.0,0.725,6.86,3.07,77.6
+TR00692,2015,2015,Istanbul Technical University,Izmir,Business,Male,Yes,Low,No,21.4,3.2,0.811,7.03,2.72,95.4
+TR00693,2019,2020,Middle East Technical University,Mersin,Business,Female,No,Middle,No,21.1,3.3,0.815,6.24,3.28,100.0
+TR00694,2019,2019,Hacettepe University,Trabzon,Engineering,Female,No,Low,No,24.7,3.2,0.875,7.06,3.51,100.0
+TR00695,2017,2017,Hacettepe University,Bursa,Business,Female,Yes,Middle,No,23.3,0.0,0.832,7.05,2.72,100.0
+TR00696,2015,2017,Gazi University,Eskisehir,Computer Science,Unknown,Yes,Middle,No,28.3,1.7,0.682,5.48,2.79,95.4
+TR00697,2015,2015,Gazi University,Mersin,Engineering,Female,No,Middle,No,20.0,3.4,0.772,6.94,3.17,100.0
+TR00698,2016,2018,Gazi University,Diyarbakir,Economics,Female,Yes,Low,Unknown,19.7,5.3,0.88,7.44,3.69,98.0
+TR00699,2017,2018,Yildiz Technical University,Adana,Medicine,Female,No,High,No,30.9,0.6,0.881,6.3,3.31,100.0
+TR00700,2016,2019,Istanbul University,Mersin,Engineering,Male,No,Middle,No,23.1,3.0,0.885,4.89,2.52,95.1
+TR00701,2015,2015,Bogazici University,Mersin,Business,Male,No,Middle,No,21.8,1.1,0.908,6.79,3.03,91.7
+TR00702,2015,2017,Yildiz Technical University,Eskisehir,Engineering,Male,No,Low,Yes,18.9,2.7,0.779,7.9,3.06,87.3
+TR00703,2017,2018,Ankara University,Izmir,Education,Female,No,Low,No,12.2,1.5,0.841,6.9,2.31,71.3
+TR00704,2015,2015,Hacettepe University,Ankara,Psychology,Female,No,Low,No,0.5,1.0,0.739,8.67,1.91,47.7
+TR00705,2017,2021,Koc University,Adana,Law,Male,No,Low,No,15.6,4.4,0.646,6.42,2.35,64.8
+TR00706,2015,2018,Dokuz Eylul University,Mersin,Statistics,Male,No,Middle,No,12.3,4.5,0.707,6.24,2.89,83.2
+TR00707,2016,2020,Bilkent University,Trabzon,Business,Male,No,High,No,16.8,1.1,0.764,7.03,2.22,83.5
+TR00708,2018,2021,Bogazici University,Antalya,Business,Female,No,Middle,No,9.9,1.0,0.803,6.59,2.3,73.3
+TR00709,2015,2018,Ege University,Diyarbakir,Statistics,Male,Yes,Low,No,23.9,2.2,0.817,7.09,2.92,100.0
+TR00710,2015,2017,Ankara University,Eskisehir,Medicine,Male,No,Middle,No,35.5,3.6,0.783,6.18,3.42,100.0
+TR00711,2016,2016,Koc University,Antalya,Architecture,Female,Yes,Low,Yes,17.2,5.6,0.865,7.95,2.88,92.6
+TR00712,2020,2021,Bogazici University,Eskisehir,Engineering,Female,No,Middle,No,18.5,2.2,0.742,6.63,2.86,100.0
+TR00713,2015,2019,Dokuz Eylul University,Trabzon,Business,Female,Yes,Middle,No,18.3,0.0,0.851,7.06,3.35,100.0
+TR00714,2015,2019,Yildiz Technical University,Antalya,Engineering,Female,No,Middle,Yes,32.0,2.2,0.803,6.81,3.61,100.0
+TR00715,2015,2017,Middle East Technical University,Eskisehir,Computer Science,Female,No,High,No,31.3,3.6,0.739,7.37,3.65,100.0
+TR00716,2017,2018,Other Universities,Samsun,Computer Science,Male,Yes,Low,No,13.8,2.1,0.782,8.31,1.7,72.1
+TR00717,2015,2015,Bogazici University,Antalya,Computer Science,Male,No,Middle,No,12.3,2.5,0.656,6.98,2.59,65.5
+TR00718,2017,2018,Istanbul University,Izmir,Economics,Female,No,High,No,8.0,2.2,0.88,6.98,3.18,89.5
+TR00719,2015,2017,Gazi University,Konya,Economics,Female,No,Middle,Yes,8.0,0.6,0.882,5.52,3.46,93.3
+TR00720,2015,2019,Other Universities,Adana,Engineering,Female,No,Middle,No,25.1,0.0,0.799,8.42,3.12,91.8
+TR00721,2015,2018,Bilkent University,Bursa,Economics,Male,No,High,No,14.9,0.0,0.822,7.38,2.44,76.8
+TR00722,2019,2019,Dokuz Eylul University,Ankara,Architecture,Female,No,Low,Yes,13.6,1.2,0.746,7.48,2.22,73.8
+TR00723,2019,2021,Koc University,Samsun,Economics,Male,No,High,Yes,22.6,1.0,0.704,7.06,2.54,93.6
+TR00724,2015,2015,Yildiz Technical University,Kayseri,Education,Female,No,Low,No,17.2,1.7,0.876,7.06,2.92,88.3
+TR00725,2021,2021,Gazi University,Istanbul,Psychology,Female,Yes,Middle,No,8.2,2.6,0.866,7.58,2.55,72.8
+TR00726,2017,2019,Bogazici University,Trabzon,Economics,Male,No,High,No,24.5,0.0,0.587,6.36,1.42,74.4
+TR00727,2017,2019,Ege University,Trabzon,Computer Science,Male,No,Low,Yes,22.6,4.3,0.687,6.37,2.1,85.1
+TR00728,2016,2016,Hacettepe University,Mersin,Other Majors,Female,Yes,Middle,No,25.6,2.2,0.676,6.01,2.59,100.0
+TR00729,2015,2016,Hacettepe University,Diyarbakir,Engineering,Female,No,Middle,No,19.0,0.0,0.944,8.22,2.25,86.2
+TR00730,2019,2021,Ankara University,Bursa,Engineering,Male,No,High,No,23.3,2.6,0.806,7.29,2.35,92.5
+TR00731,2016,2020,Koc University,Istanbul,Law,Female,No,High,No,8.2,3.7,0.839,8.88,3.65,82.1
+TR00732,2021,2021,Istanbul Technical University,Trabzon,Business,Male,Yes,Middle,No,22.6,2.6,0.812,8.7,2.92,100.0
+TR00733,2015,2016,Middle East Technical University,Adana,Law,Female,No,Middle,Yes,9.4,1.7,0.858,5.88,2.5,76.7
+TR00734,2018,2019,Bilkent University,Bursa,Law,Male,No,High,Unknown,14.4,3.4,0.889,7.9,3.16,93.3
+TR00735,2015,2017,Ankara University,Antalya,Economics,Male,No,Middle,No,12.5,1.9,0.803,6.08,3.22,90.6
+TR00736,2019,2021,Istanbul Technical University,Antalya,Computer Science,Female,No,Middle,No,34.2,4.2,0.957,6.66,4.0,100.0
+TR00737,2016,2019,Yildiz Technical University,Kayseri,Education,Male,No,Middle,Yes,8.6,0.0,0.785,7.28,3.44,81.4
+TR00738,2015,2017,Istanbul University,Istanbul,Engineering,Female,No,Middle,Yes,25.5,0.8,0.653,5.5,2.92,95.9
+TR00739,2015,2017,Istanbul University,Trabzon,Medicine,Female,Yes,Low,No,28.7,5.3,0.848,6.09,2.14,94.2
+TR00740,2015,2016,Middle East Technical University,Ankara,Computer Science,Male,No,Low,No,16.4,5.7,0.861,7.34,2.22,75.5
+TR00741,2020,2021,Koc University,Trabzon,Economics,Female,No,Low,Yes,10.3,2.9,0.759,7.12,2.35,63.6
+TR00742,2018,2018,Gazi University,Adana,Computer Science,Male,No,High,Yes,15.4,1.6,0.737,6.01,2.97,90.6
+TR00743,2015,2015,Bogazici University,Antalya,Economics,Female,No,Middle,Yes,13.6,0.2,0.911,6.32,2.84,86.5
+TR00744,2015,2016,Ankara University,Mersin,Economics,Female,Yes,Middle,No,21.0,1.1,0.745,5.72,2.17,85.1
+TR00745,2015,2016,Ankara University,Konya,Engineering,Female,Yes,Middle,No,19.6,4.7,0.619,5.99,1.92,74.1
+TR00746,2016,2018,Bilkent University,Izmir,Medicine,Female,No,Low,No,26.1,3.6,0.95,6.46,2.94,100.0
+TR00747,2015,2015,Bilkent University,Izmir,Computer Science,Female,No,Middle,Yes,12.7,4.3,0.672,7.7,2.62,79.4
+TR00748,2018,2019,Istanbul University,Eskisehir,Business,Male,No,Middle,No,9.4,2.2,0.797,8.15,2.57,73.8
+TR00749,2017,2020,Istanbul University,Ankara,Education,Male,No,Middle,Yes,5.3,3.7,0.74,8.6,2.81,74.1
+TR00750,2020,2021,Koc University,Trabzon,Psychology,Male,Yes,High,No,24.3,1.4,0.939,7.15,3.71,100.0
+TR00751,2016,2020,Dokuz Eylul University,Izmir,Law,Female,No,Middle,No,16.8,1.7,0.935,7.19,2.99,100.0
+TR00752,2015,2019,Ege University,Eskisehir,Education,Female,No,Middle,Yes,10.0,2.8,0.667,7.39,2.18,74.1
+TR00753,2015,2016,Ege University,Istanbul,Economics,Female,Yes,Middle,No,13.4,0.1,0.929,7.53,3.68,100.0
+TR00754,2015,2015,Dokuz Eylul University,Antalya,Business,Female,No,High,Yes,10.1,0.3,0.877,5.69,2.78,86.7
+TR00755,2015,2016,Gazi University,Diyarbakir,Computer Science,Female,No,Middle,Yes,20.6,0.0,0.772,8.18,2.79,85.2
+TR00756,2015,2017,Ege University,Samsun,Economics,Female,No,Low,No,14.9,0.2,0.895,5.55,2.41,78.3
+TR00757,2016,2016,Koc University,Antalya,Law,Female,No,Middle,No,19.5,4.9,0.903,7.87,2.38,87.5
+TR00758,2016,2016,Bogazici University,Samsun,Engineering,Male,No,Middle,No,30.9,3.9,0.8,6.66,2.48,100.0
+TR00759,2019,2019,Bogazici University,Mersin,Other Majors,Female,No,Middle,No,14.7,0.0,0.807,6.23,2.17,76.1
+TR00760,2018,2019,Ankara University,Konya,Psychology,Female,Yes,Low,No,15.0,3.8,0.887,7.52,1.43,69.2
+TR00761,2016,2019,Hacettepe University,Bursa,Psychology,Female,Yes,High,Yes,18.4,0.0,0.803,6.64,2.76,91.95
+TR00762,2016,2020,Dokuz Eylul University,Izmir,Computer Science,Female,Yes,High,No,32.0,3.4,0.812,6.03,3.6,100.0
+TR00763,2015,2017,Bogazici University,Istanbul,Education,Male,No,Low,No,7.3,2.6,0.724,6.21,2.07,60.2
+TR00764,2017,2019,Istanbul Technical University,Samsun,Law,Female,No,High,Yes,6.4,4.3,0.884,5.93,3.88,91.4
+TR00765,2015,2015,Istanbul University,Gaziantep,Law,Female,No,Low,No,18.0,1.5,0.791,6.51,3.28,92.8
+TR00766,2020,2020,Bilkent University,Trabzon,Engineering,Female,No,Low,Yes,20.4,2.2,0.792,6.37,2.65,81.6
+TR00767,2017,2018,Koc University,Izmir,Business,Female,No,Low,No,20.4,0.0,0.803,5.96,2.24,81.2
+TR00768,2015,2015,Ege University,Trabzon,Business,Female,No,Low,No,18.3,1.6,0.797,7.02,1.98,85.7
+TR00769,2018,2021,Dokuz Eylul University,Ankara,Architecture,Male,No,High,No,22.2,3.0,0.837,6.02,2.88,100.0
+TR00770,2017,2021,Other Universities,Mersin,Business,Male,No,Low,Yes,20.7,3.2,0.712,6.96,2.7,79.9
+TR00771,2015,2015,Middle East Technical University,Bursa,Law,Male,No,Low,No,13.9,4.4,0.804,8.11,2.51,87.6
+TR00772,2016,2019,Bilkent University,Izmir,Law,Female,No,Low,Yes,17.9,2.9,0.754,6.99,3.1,84.0
+TR00773,2015,2018,Istanbul Technical University,Trabzon,Computer Science,Male,No,Low,Yes,11.9,4.0,0.736,6.86,3.18,84.2
+TR00774,2015,2018,Ege University,Istanbul,Education,Male,Yes,Low,No,14.9,1.7,0.871,6.66,3.0,89.7
+TR00775,2019,2018,Istanbul Technical University,Izmir,Medicine,Female,No,Middle,Yes,18.2,4.6,0.734,7.9,2.87,96.7
+TR00776,2015,2018,Istanbul University,Samsun,Law,Male,No,Low,No,12.5,0.9,0.949,7.01,2.55,80.4
+TR00777,2019,2021,Istanbul University,Ankara,Education,Female,No,High,No,26.7,0.0,0.87,8.73,3.09,99.6
+TR00778,2017,2017,Koc University,Gaziantep,Other Majors,Female,Yes,High,Yes,1.9,2.2,0.682,6.29,2.78,61.5
+TR00779,2016,2019,Gazi University,Adana,Medicine,Male,No,Low,No,28.3,4.4,0.864,6.92,2.64,100.0
+TR00780,2018,2018,Ankara University,Kayseri,Computer Science,Female,No,High,No,27.2,0.3,0.765,7.86,3.24,100.0
+TR00781,2019,2020,Bilkent University,Gaziantep,Education,Male,Yes,Low,Yes,26.3,0.6,0.801,5.95,2.43,93.5
+TR00782,2021,2021,Yildiz Technical University,Eskisehir,Engineering,Female,No,Low,Yes,22.5,2.4,0.712,6.43,2.3,92.9
+TR00783,2016,2017,Yildiz Technical University,Izmir,Education,Male,No,Low,Yes,13.2,2.9,0.594,7.39,2.02,73.6
+TR00784,2015,2016,Bilkent University,Antalya,Education,Male,No,Middle,Yes,11.6,2.1,0.768,7.25,2.41,88.8
+TR00785,2015,2016,Middle East Technical University,Konya,Business,Male,No,Middle,Yes,18.7,1.3,0.655,7.18,2.57,79.5
+TR00786,2016,2017,Koc University,Antalya,Statistics,Female,No,Middle,No,22.4,3.1,0.854,7.8,3.32,100.0
+TR00787,2017,2021,Ankara University,Gaziantep,Education,Female,No,Middle,Yes,9.9,1.8,0.784,6.71,2.72,79.6
+TR00788,2017,2020,Istanbul Technical University,Samsun,Education,Female,Yes,Middle,No,22.7,0.4,0.792,8.01,2.37,91.95
+TR00789,2015,2017,Middle East Technical University,Antalya,Education,Female,Yes,Low,No,12.0,0.7,0.986,5.8,2.21,74.4
+TR00790,2017,2019,Hacettepe University,Istanbul,Engineering,Female,Yes,Middle,No,14.0,5.3,0.741,7.98,2.49,85.0
+TR00791,2017,2019,Bilkent University,Antalya,Medicine,Male,No,Low,No,20.0,0.1,0.77,7.86,2.96,100.0
+TR00792,2015,2016,Istanbul Technical University,Bursa,Business,Male,No,Low,No,14.2,0.6,0.73,6.49,3.22,89.2
+TR00793,2015,2018,Yildiz Technical University,Adana,Medicine,Male,No,Low,No,29.8,3.8,0.983,5.48,2.19,100.0
+TR00794,2017,2020,Bogazici University,Izmir,Business,Female,No,Low,No,22.7,2.7,0.928,6.67,3.04,100.0
+TR00795,2015,2016,Dokuz Eylul University,Mersin,Psychology,Female,No,Middle,Yes,17.2,3.1,0.656,7.1,2.5,85.3
+TR00796,2016,2018,Gazi University,Antalya,Education,Female,No,High,No,15.7,3.8,0.754,6.8,2.69,91.7
+TR00797,2018,2018,Yildiz Technical University,Ankara,Computer Science,Male,Yes,Low,Yes,25.3,3.1,0.727,6.93,2.27,96.4
+TR00798,2017,2019,Ankara University,Mersin,Psychology,Male,No,Middle,Yes,14.7,1.3,0.726,8.4,2.6,75.5
+TR00799,2019,2021,Istanbul University,Adana,Education,Male,No,Middle,No,8.7,1.6,0.737,6.19,2.14,60.4
+TR00800,2015,2015,Dokuz Eylul University,Trabzon,Business,Male,No,High,Yes,2.9,0.2,0.722,5.64,2.47,65.3
+TR00801,2020,2021,Dokuz Eylul University,Samsun,Medicine,Male,No,Low,Yes,35.1,2.2,0.803,6.18,3.39,100.0
+TR00802,2015,2015,Bogazici University,Adana,Business,Female,No,Middle,No,1.5,1.0,0.976,6.95,2.98,83.3
+TR00803,2016,2017,Gazi University,Antalya,Computer Science,Female,Yes,High,No,20.6,3.6,0.716,6.54,3.71,100.0
+TR00804,2015,2019,Gazi University,Adana,Business,Male,No,Middle,No,34.5,0.8,0.737,7.52,3.23,100.0
+TR00805,2015,2018,Hacettepe University,Mersin,Computer Science,Female,No,Middle,No,25.0,3.3,0.837,6.69,2.96,95.8
+TR00806,2020,2020,Hacettepe University,Konya,Engineering,Female,No,Low,Yes,19.7,0.4,0.644,6.67,2.78,93.1
+TR00807,2015,2015,Ege University,Samsun,Education,Male,No,Low,Yes,0.9,1.6,0.789,6.91,2.12,43.7
+TR00808,2017,2021,Yildiz Technical University,Antalya,Education,Male,No,Middle,No,26.1,0.4,0.863,6.73,2.06,85.1
+TR00809,2018,2018,Yildiz Technical University,Istanbul,Computer Science,Male,No,Middle,Yes,26.5,0.6,0.826,6.71,3.26,100.0
+TR00810,2015,2015,Yildiz Technical University,Gaziantep,Statistics,Male,No,Low,No,23.1,4.1,0.861,9.07,1.97,85.6
+TR00811,2015,2015,Ege University,Bursa,Education,Male,No,Middle,Yes,11.0,4.0,0.727,7.18,3.17,83.1
+TR00812,2015,2015,Koc University,Kayseri,Architecture,Female,No,Middle,No,23.4,3.6,0.805,7.77,3.18,100.0
+TR00813,2017,2020,Middle East Technical University,Diyarbakir,Architecture,Female,No,Middle,No,21.1,3.7,0.726,7.06,2.36,100.0
+TR00814,2018,2019,Gazi University,Eskisehir,Education,Male,No,Middle,No,9.8,2.1,0.857,5.62,2.56,65.7
+TR00815,2017,2020,Bogazici University,Samsun,Other Majors,Male,No,High,No,28.7,3.4,0.948,6.22,3.1,100.0
+TR00816,2015,2016,Ankara University,Adana,Engineering,Female,Yes,Middle,No,22.1,0.0,0.877,7.1,2.49,100.0
+TR00817,2016,2018,Gazi University,Istanbul,Business,Male,No,High,No,19.3,0.8,0.764,7.54,3.11,92.6
+TR00818,2017,2019,Other Universities,Izmir,Law,Female,No,Low,Yes,15.9,3.2,0.85,6.98,2.95,85.7
+TR00819,2019,2019,Dokuz Eylul University,Izmir,Economics,Female,No,Low,Yes,18.4,3.1,0.959,7.48,2.16,84.1
+TR00820,2016,2019,Istanbul Technical University,Eskisehir,Economics,Male,Yes,Low,Yes,15.5,4.2,0.809,6.89,2.33,78.4
+TR00821,2018,2021,Istanbul University,Samsun,Statistics,Female,Yes,Low,Yes,17.8,1.3,0.834,6.79,2.71,90.0
+TR00822,2015,2019,Ege University,Samsun,Psychology,Female,Yes,Low,No,17.8,2.9,0.894,8.07,3.35,100.0
+TR00823,2016,2018,Bilkent University,Bursa,Psychology,Female,Yes,Low,Yes,32.8,0.2,0.662,5.53,3.16,99.2
+TR00824,2015,2019,Istanbul Technical University,Adana,Business,Male,No,High,No,21.4,0.7,0.787,7.79,1.87,79.0
+TR00825,2015,2017,Ankara University,Konya,Engineering,Female,No,Low,No,38.3,3.3,0.779,7.25,2.79,100.0
+TR00826,2015,2018,Yildiz Technical University,Eskisehir,Engineering,Male,No,Middle,Yes,20.2,4.2,0.837,5.7,3.0,97.7
+TR00827,2017,2019,Hacettepe University,Bursa,Economics,Male,No,Low,Yes,13.7,3.4,0.827,7.15,2.28,85.1
+TR00828,2018,2018,Hacettepe University,Adana,Engineering,Female,No,High,Yes,13.8,2.8,0.76,7.0,2.32,72.9
+TR00829,2015,2017,Hacettepe University,Mersin,Engineering,Male,No,Middle,No,32.4,0.0,0.774,6.43,2.59,100.0
+TR00830,2015,2017,Yildiz Technical University,Istanbul,Architecture,Female,No,Low,Yes,12.4,3.3,0.635,5.7,2.31,67.2
+TR00831,2016,2018,Bilkent University,Other cities,Computer Science,Male,Yes,Middle,Yes,30.1,2.2,0.789,6.18,2.53,100.0
+TR00832,2015,2015,Ege University,Gaziantep,Economics,Male,No,Middle,No,10.9,3.8,0.744,7.09,2.93,81.9
+TR00833,2015,2016,Istanbul Technical University,Konya,Engineering,Male,No,Middle,Yes,24.7,4.6,0.684,5.19,2.35,88.8
+TR00834,2018,2021,Yildiz Technical University,Mersin,Business,Female,Yes,Middle,No,7.9,0.0,0.914,6.26,2.32,81.4
+TR00835,2015,2015,Ankara University,Mersin,Engineering,Female,No,Middle,No,19.3,3.7,0.886,6.22,2.64,100.0
+TR00836,2015,2015,Ege University,Kayseri,Architecture,Female,No,Middle,No,20.1,3.0,0.781,6.1,3.44,88.6
+TR00837,2018,2020,Ankara University,Izmir,Business,Female,No,Middle,Yes,10.4,2.0,0.644,7.24,2.8,81.5
+TR00838,2021,2021,Ege University,Ankara,Business,Male,No,Low,No,16.4,2.4,0.754,7.78,2.9,89.7
+TR00839,2021,2021,Bilkent University,Istanbul,Economics,Female,No,High,No,18.4,2.4,0.899,6.74,3.07,100.0
+TR00840,2015,2015,Istanbul University,Izmir,Engineering,Male,No,Middle,Yes,23.8,5.2,0.807,7.19,2.4,85.1
+TR00841,2018,2019,Ankara University,Antalya,Computer Science,Female,No,Middle,Yes,7.1,1.7,0.732,7.84,2.24,60.6
+TR00842,2017,2020,Yildiz Technical University,Diyarbakir,Computer Science,Female,No,Low,Yes,16.6,1.8,0.775,6.72,2.24,75.1
+TR00843,2018,2020,Ege University,Mersin,Computer Science,Male,Yes,Middle,No,30.5,3.9,0.674,6.95,3.38,100.0
+TR00844,2016,2017,Hacettepe University,Ankara,Engineering,Female,No,High,No,26.2,0.0,0.648,6.58,2.94,94.9
+TR00845,2021,2021,Koc University,Samsun,Law,Male,No,Low,Yes,25.0,3.4,0.928,5.64,2.12,91.4
+TR00846,2015,2015,Gazi University,Izmir,Other Majors,Male,No,Middle,No,22.6,2.6,0.861,6.27,3.53,100.0
+TR00847,2015,2017,Hacettepe University,Bursa,Psychology,Male,No,Middle,Yes,7.3,0.0,0.77,7.33,2.48,84.3
+TR00848,2015,2018,Middle East Technical University,Konya,Economics,Female,No,High,Yes,19.2,0.4,0.738,6.62,3.12,100.0
+TR00849,2015,2016,Istanbul University,Trabzon,Economics,Male,No,Middle,No,18.0,4.1,0.679,7.59,3.16,100.0
+TR00850,2019,2020,Istanbul University,Izmir,Computer Science,Male,No,Middle,No,36.6,0.3,0.899,4.93,1.96,100.0
+TR00851,2015,2018,Hacettepe University,Kayseri,Computer Science,Male,No,High,No,27.0,2.7,0.729,5.41,3.11,99.8
+TR00852,2016,2018,Istanbul Technical University,Gaziantep,Business,Female,No,Middle,No,19.3,0.0,0.876,5.74,2.77,90.3
+TR00853,2015,2019,Bilkent University,Bursa,Business,Male,Yes,Low,No,20.6,0.7,0.851,7.05,1.74,82.5
+TR00854,2015,2016,Ankara University,Trabzon,Business,Male,Yes,Low,No,18.2,4.9,0.836,5.89,2.27,80.2
+TR00855,2015,2018,Yildiz Technical University,Istanbul,Psychology,Male,No,Middle,No,19.9,1.5,0.716,7.2,2.57,94.1
+TR00856,2015,2018,Istanbul University,Istanbul,Business,Female,No,Low,No,14.6,2.6,0.717,7.7,2.78,96.6
+TR00857,2015,2016,Hacettepe University,Istanbul,Architecture,Female,No,Low,Yes,20.6,2.4,0.801,7.88,2.62,91.4
+TR00858,2015,2016,Other Universities,Istanbul,Business,Male,No,High,No,21.1,0.0,0.826,8.03,3.01,100.0
+TR00859,2015,2018,Bilkent University,Gaziantep,Architecture,Female,No,Low,Yes,24.6,0.7,0.774,6.0,2.58,100.0
+TR00860,2016,2016,Bilkent University,Izmir,Education,Male,Yes,Middle,No,20.0,2.9,0.863,5.6,3.45,98.4
+TR00861,2018,2018,Bogazici University,Adana,Economics,Female,Yes,Low,Yes,24.2,2.4,0.635,6.06,2.93,86.4
+TR00862,2015,2018,Bogazici University,Izmir,Psychology,Male,Yes,Middle,No,23.9,0.1,0.921,7.6,3.12,100.0
+TR00863,2016,2019,Istanbul Technical University,Mersin,Engineering,Female,No,Middle,No,27.4,2.8,0.792,6.41,2.35,98.7
+TR00864,2015,2015,Koc University,Antalya,Architecture,Female,No,Low,Yes,10.1,3.7,0.864,6.97,2.65,73.2
+TR00865,2018,2018,Koc University,Trabzon,Computer Science,Male,Yes,Middle,No,15.3,3.3,0.679,6.63,3.92,100.0
+TR00866,2017,2017,Istanbul Technical University,Diyarbakir,Engineering,Male,No,Low,No,21.3,2.2,0.866,8.17,3.09,100.0
+TR00867,2017,2020,Middle East Technical University,Trabzon,Computer Science,Male,No,High,No,23.3,0.0,0.865,6.03,2.63,98.3
+TR00868,2017,2021,Istanbul Technical University,Konya,Statistics,Female,No,High,No,29.8,1.5,0.701,6.7,3.76,100.0
+TR00869,2015,2015,Ege University,Ankara,Engineering,Male,No,Middle,No,5.3,4.6,0.769,6.89,2.16,71.4
+TR00870,2015,2015,Bilkent University,Adana,Law,Male,No,Middle,No,11.8,3.2,0.735,8.66,2.94,79.7
+TR00871,2015,2015,Koc University,Trabzon,Education,Male,No,Middle,No,12.8,1.7,0.889,6.6,2.8,95.1
+TR00872,2015,2019,Yildiz Technical University,Adana,Education,Female,No,Middle,Yes,6.6,0.7,0.795,7.86,2.74,72.4
+TR00873,2018,2018,Ege University,Mersin,Business,Male,No,Middle,No,11.4,0.4,0.948,6.69,2.92,90.0
+TR00874,2015,2019,Ankara University,Izmir,Medicine,Male,No,Low,No,26.6,3.9,0.836,7.84,2.63,100.0
+TR00875,2017,2018,Hacettepe University,Adana,Engineering,Male,No,Middle,No,17.5,4.1,0.879,8.4,2.61,94.8
+TR00876,2018,2019,Istanbul Technical University,Eskisehir,Law,Female,No,Low,No,15.0,4.0,0.914,6.38,2.11,93.9
+TR00877,2017,2019,Hacettepe University,Eskisehir,Business,Male,No,Middle,No,24.8,0.8,0.864,7.32,2.45,97.2
+TR00878,2016,2020,Istanbul University,Diyarbakir,Architecture,Male,No,Low,No,25.7,6.7,0.789,7.66,2.92,100.0
+TR00879,2017,2017,Middle East Technical University,Antalya,Engineering,Female,No,Middle,Yes,24.4,2.9,0.724,6.32,2.46,80.2
+TR00880,2019,2019,Istanbul University,Samsun,Computer Science,Female,Yes,Low,Yes,19.4,2.6,0.784,7.15,2.3,70.2
+TR00881,2017,2020,Middle East Technical University,Ankara,Engineering,Female,No,Low,Yes,27.1,5.8,0.834,6.96,4.0,100.0
+TR00882,2016,2016,Bogazici University,Kayseri,Engineering,Female,No,Middle,Yes,24.5,0.0,0.709,8.16,3.87,100.0
+TR00883,2015,2017,Hacettepe University,Gaziantep,Business,Female,No,High,No,19.4,1.8,0.872,5.38,3.22,94.2
+TR00884,2017,2019,Middle East Technical University,Izmir,Business,Male,No,Middle,No,12.7,1.1,0.846,7.12,3.08,81.9
+TR00885,2021,2021,Dokuz Eylul University,Gaziantep,Computer Science,Male,No,Low,No,20.7,5.5,0.72,5.92,2.26,92.4
+TR00886,2015,2015,Koc University,Diyarbakir,Architecture,Male,No,Low,Unknown,23.3,3.6,0.818,6.6,2.22,85.1
+TR00887,2015,2016,Dokuz Eylul University,Kayseri,Computer Science,Male,No,High,No,18.3,2.6,0.831,6.36,2.71,100.0
+TR00888,2016,2016,Dokuz Eylul University,Diyarbakir,Architecture,Female,No,Middle,Yes,18.9,3.1,0.726,6.8,2.58,90.8
+TR00889,2017,2020,Gazi University,Izmir,Psychology,Female,No,Low,Yes,11.8,0.2,0.78,6.24,2.92,74.7
+TR00890,2015,2016,Koc University,Izmir,Law,Male,No,High,Yes,24.8,3.1,0.729,6.67,2.06,95.9
+TR00891,2017,2017,Ege University,Ankara,Education,Female,No,High,No,11.6,0.0,0.84,8.05,3.81,98.1
+TR00892,2018,2019,Middle East Technical University,Gaziantep,Computer Science,Female,No,High,Yes,21.6,3.0,0.757,6.34,2.96,91.9
+TR00893,2018,2019,Middle East Technical University,Eskisehir,Engineering,Female,No,High,No,19.9,2.7,0.698,8.09,2.06,78.7
+TR00894,2016,2021,Ege University,Istanbul,Education,Female,Yes,High,No,21.0,0.0,0.829,7.75,3.1,98.2
+TR00895,2015,2015,Hacettepe University,Gaziantep,Engineering,Male,Yes,Low,No,25.2,3.5,0.805,8.41,2.39,88.8
+TR00896,2019,2020,Hacettepe University,Konya,Law,Female,No,Low,No,11.1,2.9,0.871,7.54,2.17,83.2
+TR00897,2015,2015,Dokuz Eylul University,Diyarbakir,Computer Science,Female,No,Middle,No,22.6,1.6,0.89,6.81,2.41,91.0
+TR00898,2016,2016,Ege University,Konya,Engineering,Female,Yes,Middle,No,12.3,1.2,0.799,5.9,2.58,72.9
+TR00899,2021,2021,Koc University,Izmir,Medicine,Male,No,Middle,No,27.1,4.3,0.757,6.1,3.73,100.0
+TR00900,2015,2015,Dokuz Eylul University,Istanbul,Architecture,Female,Yes,Middle,No,19.9,2.6,0.706,6.78,2.81,95.4
+TR00901,2017,2017,Istanbul University,Bursa,Computer Science,Male,No,Middle,No,32.9,3.0,0.755,6.48,3.25,100.0
+TR00902,2015,2019,Gazi University,Kayseri,Medicine,Female,No,Middle,Yes,28.5,3.5,0.744,8.31,3.22,93.9
+TR00903,2015,2016,Yildiz Technical University,Antalya,Computer Science,Female,No,Low,Yes,13.8,2.3,0.663,6.71,2.41,77.2
+TR00904,2020,2021,Ankara University,Istanbul,Law,Female,No,Low,Yes,15.5,6.0,0.841,5.41,2.13,72.5
+TR00905,2015,2015,Gazi University,Antalya,Business,Female,No,Middle,No,20.5,0.7,0.841,7.46,2.15,80.8
+TR00906,2019,2020,Hacettepe University,Trabzon,Statistics,Female,No,Middle,No,16.5,1.0,0.81,7.53,2.56,88.7
+TR00907,2016,2017,Yildiz Technical University,Gaziantep,Computer Science,Female,Yes,Low,No,28.4,3.3,0.839,6.32,3.4,100.0
+TR00908,2016,2017,Bogazici University,Gaziantep,Economics,Male,No,Middle,No,14.7,1.3,0.844,8.8,3.19,92.2
+TR00909,2015,2015,Istanbul Technical University,Antalya,Education,Female,No,Middle,No,8.5,0.5,0.871,5.77,2.86,89.9
+TR00910,2018,2019,Dokuz Eylul University,Samsun,Psychology,Male,No,Middle,No,14.7,4.3,0.885,8.1,3.0,90.1
+TR00911,2015,2015,Middle East Technical University,Kayseri,Engineering,Female,No,Low,No,12.3,1.6,0.795,6.94,2.48,92.4
+TR00912,2016,2016,Ege University,Istanbul,Medicine,Female,Unknown,Middle,Yes,12.4,3.6,0.759,6.16,2.35,81.3
+TR00913,2015,2015,Ege University,Bursa,Medicine,Female,Yes,Low,No,27.5,2.4,0.854,8.64,2.48,92.7
+TR00914,2015,2017,Middle East Technical University,Izmir,Computer Science,Male,No,High,No,21.4,1.5,0.805,7.49,2.22,87.0
+TR00915,2019,2021,Dokuz Eylul University,Ankara,Computer Science,Female,No,Low,No,24.9,6.0,0.89,6.55,3.63,100.0
+TR00916,2015,2015,Istanbul Technical University,Gaziantep,Computer Science,Female,No,Middle,Yes,17.5,3.1,0.868,6.51,2.87,96.8
+TR00917,2019,2019,Ankara University,Konya,Architecture,Female,Yes,Low,No,35.6,3.0,0.868,6.69,2.83,100.0
+TR00918,2021,2021,Istanbul Technical University,Kayseri,Education,Female,No,Middle,No,17.4,0.0,0.747,6.65,3.6,96.0
+TR00919,2020,2020,Yildiz Technical University,Ankara,Engineering,Female,No,Middle,Yes,12.7,2.1,0.811,7.95,3.57,80.1
+TR00920,2017,2018,Istanbul Technical University,Diyarbakir,Economics,Male,Yes,Low,Yes,8.5,5.1,0.821,7.11,3.84,96.3
+TR00921,2015,2015,Yildiz Technical University,Diyarbakir,Business,Female,No,Middle,No,15.0,2.0,0.741,7.9,2.6,78.3
+TR00922,2018,2019,Istanbul Technical University,Bursa,Economics,Female,Yes,Low,No,16.0,1.7,0.871,6.89,2.8,85.5
+TR00923,2018,2018,Ankara University,Diyarbakir,Computer Science,Male,Yes,Middle,No,16.0,3.3,0.796,7.75,3.06,95.1
+TR00924,2016,2019,Ankara University,Adana,Psychology,Female,No,Middle,No,17.2,1.7,0.88,8.1,3.61,100.0
+TR00925,2018,2020,Hacettepe University,Mersin,Economics,Female,No,Middle,Yes,15.7,0.3,0.81,8.16,2.78,90.8
+TR00926,2015,2017,Middle East Technical University,Izmir,Law,Female,No,High,No,28.4,1.0,0.838,7.08,2.58,100.0
+TR00927,2016,2019,Ankara University,Gaziantep,Education,Male,Yes,Middle,No,10.1,4.6,0.843,6.54,2.46,80.0
+TR00928,2018,2021,Yildiz Technical University,Izmir,Business,Female,No,Middle,No,14.9,1.8,0.649,6.96,3.16,80.2
+TR00929,2018,2019,Ankara University,Diyarbakir,Engineering,Female,No,Low,Yes,30.2,0.9,0.673,6.36,2.99,100.0
+TR00930,2018,2019,Hacettepe University,Samsun,Business,Female,No,Middle,No,18.6,2.0,0.81,6.52,2.74,96.5
+TR00931,2017,2019,Ege University,Trabzon,Engineering,Male,No,Middle,No,18.1,4.9,0.942,6.41,2.74,90.6
+TR00932,2016,2016,Yildiz Technical University,Trabzon,Architecture,Female,No,Low,No,16.1,1.2,0.865,7.2,2.61,83.2
+TR00933,2015,2018,Hacettepe University,Ankara,Engineering,Male,No,High,No,15.1,1.9,0.965,6.3,3.46,100.0
+TR00934,2016,2017,Istanbul University,Trabzon,Business,Male,No,Low,No,16.3,4.1,0.827,6.11,2.34,82.0
+TR00935,2015,2015,Istanbul University,Trabzon,Law,Male,No,High,No,24.2,1.7,0.818,5.46,2.4,91.9
+TR00936,2018,2019,Bogazici University,Izmir,Statistics,Female,No,Low,Yes,27.4,2.8,0.884,6.85,3.68,100.0
+TR00937,2017,2020,Istanbul Technical University,Mersin,Engineering,Female,Yes,High,No,15.1,0.5,0.827,7.36,2.85,93.8
+TR00938,2015,2015,Middle East Technical University,Adana,Engineering,Female,No,Middle,No,27.2,4.5,0.741,6.46,2.79,100.0
+TR00939,2016,2020,Bilkent University,Ankara,Engineering,Female,No,Low,Yes,22.0,3.1,0.795,7.43,2.99,99.4
+TR00940,2015,2015,Gazi University,Gaziantep,Engineering,Female,Yes,Low,Yes,17.4,0.0,0.88,5.97,2.29,91.5
+TR00941,2015,2017,Hacettepe University,Istanbul,Medicine,Male,Yes,Middle,No,26.3,1.0,0.774,7.06,3.17,100.0
+TR00942,2017,2019,Ege University,Konya,Computer Science,Female,No,High,Yes,8.1,1.5,0.817,7.09,2.52,68.3
+TR00943,2018,2019,Gazi University,Ankara,Other Majors,Female,Yes,Low,Yes,30.4,2.4,0.783,5.78,3.31,100.0
+TR00944,2016,2018,Ege University,Eskisehir,Engineering,Male,No,Low,Yes,12.3,1.9,0.806,6.53,1.86,71.0
+TR00945,2017,2020,Koc University,Samsun,Education,Male,No,Middle,Yes,8.5,4.8,0.795,6.58,2.89,79.2
+TR00946,2015,2015,Koc University,Adana,Economics,Female,No,Middle,Yes,16.5,2.7,0.737,7.0,2.6,84.2
+TR00947,2015,2015,Koc University,Samsun,Economics,Male,Yes,Middle,No,6.1,0.0,0.832,7.83,2.36,63.7
+TR00948,2015,2016,Gazi University,Ankara,Economics,Female,No,Middle,No,9.5,1.1,0.792,6.91,2.99,82.9
+TR00949,2016,2018,Hacettepe University,Ankara,Statistics,Male,No,Low,Yes,24.5,2.9,0.779,5.98,2.66,86.2
+TR00950,2018,2021,Bilkent University,Other cities,Engineering,Male,No,High,No,25.1,0.2,0.752,6.9,3.09,100.0
+TR00951,2020,2021,Gazi University,Trabzon,Psychology,Male,No,Middle,No,14.4,2.2,0.771,5.79,3.3,88.3
+TR00952,2015,2016,Hacettepe University,Gaziantep,Education,Male,No,Low,Yes,12.2,0.0,0.737,6.95,2.95,72.2
+TR00953,2015,2016,Ankara University,Samsun,Engineering,Female,No,Middle,No,26.4,4.6,0.851,8.0,2.41,100.0
+TR00954,2015,2016,Bilkent University,Ankara,Statistics,Female,No,Middle,No,26.1,4.7,0.707,6.19,2.55,91.95
+TR00955,2020,2020,Koc University,Konya,Medicine,Male,No,Middle,No,23.3,7.3,0.811,6.7,2.98,100.0
+TR00956,2018,2020,Yildiz Technical University,Izmir,Engineering,Female,No,Middle,Unknown,14.9,0.3,0.713,7.66,2.97,82.5
+TR00957,2015,2017,Ege University,Gaziantep,Education,Male,Yes,Low,No,18.5,0.0,0.807,7.59,2.62,81.2
+TR00958,2015,2017,Koc University,Konya,Computer Science,Female,No,Middle,No,25.6,3.7,0.767,6.82,2.93,100.0
+TR00959,2015,2016,Istanbul University,Diyarbakir,Computer Science,Female,No,High,Yes,10.3,4.3,0.786,6.93,2.79,86.6
+TR00960,2016,2018,Istanbul Technical University,Other cities,Engineering,Female,No,Low,No,17.3,4.7,0.807,6.89,2.77,91.6
+TR00961,2015,2015,Istanbul University,Diyarbakir,Business,Female,No,Middle,No,13.8,2.9,0.877,7.52,2.27,87.4
+TR00962,2016,2020,Koc University,Konya,Education,Male,No,High,No,16.1,3.0,0.852,5.98,2.29,97.1
+TR00963,2015,2018,Bilkent University,Mersin,Economics,Male,No,High,No,18.5,1.7,0.697,5.33,1.77,70.5
+TR00964,2019,2019,Yildiz Technical University,Adana,Economics,Male,Yes,Middle,Yes,7.4,1.3,0.713,7.87,2.65,75.3
+TR00965,2017,2020,Ege University,Trabzon,Engineering,Male,No,Middle,No,24.3,0.6,0.806,7.12,2.21,77.4
+TR00966,2020,2020,Yildiz Technical University,Konya,Engineering,Male,No,Middle,No,19.7,2.3,0.817,7.65,3.73,99.1
+TR00967,2015,2017,Gazi University,Antalya,Psychology,Male,Yes,High,No,9.8,0.9,0.77,6.66,3.09,89.3
+TR00968,2015,2015,Ege University,Konya,Business,Female,No,High,No,14.9,0.0,0.924,7.47,2.4,83.6
+TR00969,2015,2015,Koc University,Istanbul,Statistics,Male,No,Low,No,18.3,2.9,0.889,6.64,3.24,88.7
+TR00970,2018,2021,Gazi University,Istanbul,Economics,Female,No,Middle,Yes,21.2,0.0,0.638,6.39,3.21,100.0
+TR00971,2017,2021,Hacettepe University,Kayseri,Other Majors,Female,No,Middle,No,18.2,4.4,0.848,7.77,3.34,97.3
+TR00972,2018,2021,Bilkent University,Diyarbakir,Economics,Male,No,Middle,Yes,17.8,2.3,0.766,6.64,2.39,91.4
+TR00973,2018,2021,Dokuz Eylul University,Antalya,Economics,Female,No,Middle,Yes,7.0,0.9,0.87,6.52,2.99,81.5
+TR00974,2016,2019,Hacettepe University,Trabzon,Engineering,Female,Yes,Middle,No,22.0,3.1,0.714,5.79,3.33,96.6
+TR00975,2016,2019,Bogazici University,Antalya,Economics,Female,No,High,No,21.4,0.0,0.985,7.19,3.77,100.0
+TR00976,2017,2020,Yildiz Technical University,Izmir,Law,Female,Yes,Low,No,23.3,0.8,0.773,7.69,2.08,89.1
+TR00977,2015,2016,Dokuz Eylul University,Antalya,Statistics,Male,No,Low,Yes,19.7,2.0,0.8,6.07,2.58,88.5
+TR00978,2017,2017,Gazi University,Izmir,Computer Science,Female,No,Middle,No,26.6,2.3,0.771,7.29,2.48,94.0
+TR00979,2015,2017,Ankara University,Kayseri,Engineering,Female,No,Middle,Yes,17.1,3.0,0.74,6.02,3.51,89.2
+TR00980,2021,2021,Hacettepe University,Kayseri,Engineering,Female,No,Middle,No,27.4,3.6,0.685,7.32,2.9,99.5
+TR00981,2017,2020,Bogazici University,Adana,Engineering,Female,No,Low,No,35.2,1.3,0.916,6.51,3.38,100.0
+TR00982,2017,2018,Middle East Technical University,Istanbul,Law,Male,Yes,Middle,No,16.4,1.7,0.818,7.26,3.02,99.0
+TR00983,2015,2016,Dokuz Eylul University,Konya,Education,Female,No,High,No,22.7,0.0,0.804,6.3,3.15,89.7
+TR00984,2019,2020,Istanbul University,Konya,Architecture,Female,No,Middle,No,27.3,0.0,0.99,7.01,2.66,100.0
+TR00985,2015,2016,Ege University,Diyarbakir,Engineering,Male,No,Middle,Yes,17.8,7.7,0.847,6.28,2.56,100.0
+TR00986,2015,2016,Bogazici University,Eskisehir,Law,Male,Yes,Low,No,17.3,1.1,0.787,6.69,2.72,85.0
+TR00987,2015,2016,Bilkent University,Eskisehir,Business,Male,No,Middle,No,16.1,0.0,0.771,5.84,2.46,92.9
+TR00988,2017,2020,Dokuz Eylul University,Bursa,Computer Science,Male,No,Middle,No,27.9,0.4,0.841,6.08,2.56,92.6
+TR00989,2020,2021,Hacettepe University,Gaziantep,Law,Female,No,Middle,No,22.8,0.1,0.882,6.44,2.81,100.0
+TR00990,2015,2017,Bilkent University,Adana,Other Majors,Female,No,Low,Yes,16.0,2.9,0.91,7.06,2.44,80.6
+TR00991,2015,2017,Istanbul University,Bursa,Computer Science,Female,No,Low,No,9.3,5.4,0.691,7.74,2.46,82.1
+TR00992,2020,2021,Ankara University,Bursa,Engineering,Male,No,Low,No,28.4,3.1,0.878,6.2,2.65,93.6
+TR00993,2015,2016,Yildiz Technical University,Ankara,Education,Female,No,Middle,No,2.8,0.5,0.891,7.32,2.37,74.5
+TR00994,2015,2018,Yildiz Technical University,Diyarbakir,Engineering,Female,No,High,No,15.0,4.5,0.757,8.44,2.31,91.9
+TR00995,2015,2015,Koc University,Ankara,Computer Science,Female,Unknown,High,No,18.6,1.6,0.791,7.09,2.83,84.5
+TR00996,2016,2020,Bilkent University,Samsun,Business,Female,No,Middle,Yes,6.7,1.2,0.64,6.66,2.9,86.6
+TR00997,2015,2015,Gazi University,Diyarbakir,Business,Female,No,Middle,No,16.9,0.0,0.78,5.69,3.06,96.6
+TR00998,2017,2021,Ankara University,Bursa,Architecture,Male,No,High,Unknown,20.6,4.5,0.839,6.24,2.22,78.1
+TR00999,2018,2018,Yildiz Technical University,Antalya,Psychology,Female,No,Low,Yes,18.9,3.6,0.898,6.01,3.19,94.7
+TR01000,2018,2020,Ankara University,Gaziantep,Education,Male,Yes,Middle,No,6.4,0.8,0.975,8.93,3.13,90.3
+TR00642,2015,2015,Middle East Technical University,Mersin,Engineering,Male,No,Low,Yes,18.4,6.4,0.688,6.94,3.07,98.7
+TR00988,2017,2020,Dokuz Eylul University,Bursa,Computer Science,Male,No,Middle,No,27.9,0.4,0.841,6.08,2.56,92.6
+TR00188,2018,2021,Gazi University,Bursa,Business,Male,No,Low,No,10.2,0.0,0.923,8.44,2.94,87.5
+TR00849,2015,2016,Istanbul University,Trabzon,Economics,Male,No,Middle,No,18.0,4.1,0.679,7.59,3.16,100.0
+TR00583,2015,2016,Istanbul University,Konya,Business,Female,Yes,Low,Yes,16.2,0.7,0.731,8.77,2.59,94.4
+TR00884,2017,2019,Middle East Technical University,Izmir,Business,Male,No,Middle,No,12.7,1.1,0.846,7.12,3.08,81.9
+TR00816,2015,2016,Ankara University,Adana,Engineering,Female,Yes,Middle,No,22.1,0.0,0.877,7.1,2.49,100.0
+TR00023,2015,2016,Dokuz Eylul University,Konya,Engineering,Male,No,High,No,30.3,1.7,0.726,8.16,2.96,100.0
+TR00042,2016,2020,Yildiz Technical University,Diyarbakir,Engineering,Male,No,Low,No,22.9,3.9,0.753,6.58,3.22,100.0
+TR00838,2021,2021,Ege University,Ankara,Business,Male,No,Low,No,16.4,2.4,0.754,7.78,2.9,89.7
+TR00348,2015,2017,Hacettepe University,Kayseri,Computer Science,Male,No,Middle,No,18.7,4.0,0.802,6.43,2.27,83.7
+TR00681,2020,2021,Bilkent University,Adana,Computer Science,Female,No,Middle,Yes,19.2,3.0,0.792,7.16,3.34,93.2
+TR00387,2018,2020,Istanbul University,Bursa,Education,Female,No,Middle,No,20.4,4.1,0.847,7.15,2.33,83.5
+TR00459,2017,2019,Istanbul Technical University,Samsun,Computer Science,Female,No,Middle,No,31.8,0.7,0.736,7.56,3.2,100.0
+TR00811,2015,2015,Ege University,Bursa,Education,Male,No,Middle,Yes,11.0,4.0,0.727,7.18,3.17,83.1
